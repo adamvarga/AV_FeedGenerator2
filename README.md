@@ -17,7 +17,7 @@ delivery_cost
 
 Feed is generated once a day at 0:00 <br> (Change the cron setup, schedule in etc/crontab.xml, if you want)
 
-CRONTAB.GURU: <a href="crontab.guru" target='_blank'>Quick and simple editor for your cronjob</a>
+CRONTAB.GURU: <a href="http://crontab.guru" target='_blank'>Quick and simple editor for your cronjob</a>
 
 CSV Feed is placed in var/feed directory
 
