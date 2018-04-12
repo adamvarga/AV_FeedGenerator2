@@ -1,0 +1,558 @@
+product_url,product_title,product_description,price,sku,product_image,product_category,delivery_cost
+http://localhost:8888/magento2/test/joust-duffle-bag.html,"Joust Duffle Bigger Bag","The sporty Joust Duffle Bag can't be beat - not in the gym, not on the luggage carousel, not anywhere. Big enough to haul a basketball or soccer ball and some sneakers with plenty of room to spare, it's ideal for athletes with places to go.
+
+Dual top handles.
+Adjustable shoulder strap.
+Full-length zipper.
+L 29"" x W 13"" x H 11"".
+","34 EUR",24-MB01,http://localhost:8888/magento2/test/pub/media/catalog/product/m/b/mb01-blue-0.jpg,"Gear, Bags",4.90
+http://localhost:8888/magento2/test/strive-shoulder-pack.html,"Strive Shoulder Pack","Convenience is next to nothing when your day is crammed with action. So whether you're heading to class, gym, or the unbeaten path, make sure you've got your Strive Shoulder Pack stuffed with all your essentials, and extras as well.
+
+Zippered main compartment.
+Front zippered pocket.
+Side mesh pocket.
+Cell phone pocket on strap.
+Adjustable shoulder strap and top carry handle.
+","32 EUR",24-MB04,http://localhost:8888/magento2/test/pub/media/catalog/product/m/b/mb04-black-0.jpg,"Gear, Collections, Bags",4.90
+http://localhost:8888/magento2/test/crown-summit-backpack.html,"Crown Summit Backpack","The Crown Summit Backpack is equally at home in a gym locker, study cube or a pup tent, so be sure yours is packed with books, a bag lunch, water bottles, yoga block, laptop, or whatever else you want in hand. Rugged enough for day hikes and camping trips, it has two large zippered compartments and padded, adjustable shoulder straps.
+
+Top handle.
+Grommet holes.
+Two-way zippers.
+H 20"" x W 14"" x D 12"".
+Weight: 2 lbs, 8 oz. Volume: 29 L.
+","38 EUR",24-MB03,http://localhost:8888/magento2/test/pub/media/catalog/product/m/b/mb03-black-0.jpg,"Gear, Bags",4.90
+http://localhost:8888/magento2/test/wayfarer-messenger-bag.html,"Wayfarer Messenger Bag","Perfect for class, work or the gym, the Wayfarer Messenger Bag is packed with pockets. The dual-buckle flap closure reveals an organizational panel, and the roomy main compartment has spaces for your laptop and a change of clothes. An adjustable shoulder strap and easy-grip handle promise easy carrying.
+
+Multiple internal zip pockets.
+Made of durable nylon.
+","45 EUR",24-MB05,http://localhost:8888/magento2/test/pub/media/catalog/product/m/b/mb05-black-0.jpg,"Gear, Collections, Bags, New Luma Yoga Collection",4.90
+http://localhost:8888/magento2/test/rival-field-messenger.html,"Rival Field Messenger","The Rival Field Messenger packs all your campus, studio or trail essentials inside a unique design of soft, textured leather - with loads of character to spare. Two exterior pockets keep all your smaller items handy, and the roomy interior offers even more space.
+
+Leather construction.
+Adjustable fabric carry strap.
+Dimensions: 18"" x 10"" x 4"".
+","45 EUR",24-MB06,http://localhost:8888/magento2/test/pub/media/catalog/product/m/b/mb06-gray-0.jpg,"Gear, Collections, Bags, New Luma Yoga Collection",4.90
+http://localhost:8888/magento2/test/fusion-backpack.html,"Fusion Backpack","With the Fusion Backpack strapped on, every trek is an adventure - even a bus ride to work. That's partly because two large zippered compartments store everything you need, while a front zippered pocket and side mesh pouches are perfect for stashing those little extras, in case you change your mind and take the day off.
+
+Durable nylon construction.
+2 main zippered compartments.
+1 exterior zippered pocket.
+Mesh side pouches.
+Padded, adjustable straps.
+Top carry handle.
+Dimensions: 18"" x 10"" x 6"".
+","59 EUR",24-MB02,http://localhost:8888/magento2/test/pub/media/catalog/product/m/b/mb02-gray-0.jpg,"Gear, Bags",4.90
+http://localhost:8888/magento2/test/impulse-duffle.html,"Impulse Duffle","Good for beach trips, track meets, yoga retreats and more, the Impulse Duffle is the companion you'll want at your side. A large U-shaped opening makes packing a hassle-free affair, while a zippered interior pocket keeps jewelry and other small valuables safely tucked out of sight.
+
+Wheeled.
+Dual carry handles.
+Retractable top handle.
+W 14"" x H 26"" x D 11"".
+","74 EUR",24-UB02,http://localhost:8888/magento2/test/pub/media/catalog/product/u/b/ub02-black-0.jpg,"Gear, Bags",4.90
+http://localhost:8888/magento2/test/voyage-yoga-bag.html,"Voyage Yoga Bag","Everything you need for a trip to the gym will fit inside this surprisingly spacious Voyage Yoga Bag. Stock it with a water bottle, change of clothes, pair of shoes, and even a few beauty products. Fits inside a locker and zips shut for security.
+
+Slip pocket on front.
+Contrast piping.
+Durable nylon construction.
+","32 EUR",24-WB01,http://localhost:8888/magento2/test/pub/media/catalog/product/w/b/wb01-black-0.jpg,"Gear, Bags",4.90
+http://localhost:8888/magento2/test/compete-track-tote.html,"Compete Track Tote","The Compete Track Tote holds a host of exercise supplies with ease. Stash your towel, jacket and street shoes inside. Tuck water bottles in easy-access external spaces. Perfect for trips to gym or yoga studio, with dual top handles for convenience to and from.
+
+Two-way zippers.
+Contrast detailing.
+W 22.0"" x H 17"" x D 10"".
+","32 EUR",24-WB02,http://localhost:8888/magento2/test/pub/media/catalog/product/w/b/wb02-green-0.jpg,"Gear, Bags",4.90
+http://localhost:8888/magento2/test/savvy-shoulder-tote.html,"Savvy Shoulder Tote","Powerwalking to the gym or strolling to the local coffeehouse, the Savvy Shoulder Tote lets you stash your essentials in sporty style! A top-loading compartment provides quick and easy access to larger items, while zippered pockets on the front and side hold cash, credit cards and phone.
+
+Water-resistant shell.
+Water bottle pocket.
+Padded, articulating shoulder strap.
+Dimensions: W 21"" x H 15"" x D 10"".
+","32 EUR",24-WB05,http://localhost:8888/magento2/test/pub/media/catalog/product/w/b/wb05-red-0.jpg,"Gear, Collections, Bags",4.90
+http://localhost:8888/magento2/test/endeavor-daytrip-backpack.html,"Endeavor Daytrip Backpack","With more room than it appears, the Endeavor Daytrip Backpack will hold a whole day's worth of books, binders and gym clothes. The spacious main compartment includes a dedicated laptop sleeve. Two other compartments offer extra storage space.
+
+Foam-padded adjustable shoulder straps.
+900D polyester.
+Oversized zippers.
+Locker loop.
+","33 EUR",24-WB06,http://localhost:8888/magento2/test/pub/media/catalog/product/w/b/wb06-red-0.jpg,"Gear, Collections, Bags",4.90
+http://localhost:8888/magento2/test/driven-backpack.html,"Driven Backpack","School books, camp gear and yoga clothes get along just fine in the all-purpose Driven Backpack. Crafted with tough polyester ripstop fabric, it's outfitted with rubberized end panels and padded, adjustable shoulder straps. The roomy main compartment features molded foam pockets that host everything you need.
+
+Large main and small zip compartments.
+Adjustable, padded straps.
+Interior foam pockets.
+Exterior zip compartment.
+Left sport bottle pocket.
+Survival gear sold separately.
+","36 EUR",24-WB03,http://localhost:8888/magento2/test/pub/media/catalog/product/w/b/wb03-purple-0.jpg,"Gear, Bags",4.90
+http://localhost:8888/magento2/test/overnight-duffle.html,"Overnight Duffle","For long weekends away, camping outings and business trips, the Overnight Duffle can't be beat. The dual handles make it a cinch to carry, while the durable waterproof exterior helps you worry less about the weather. With multiple organizational pockets inside and out, it's the perfect travel companion.
+
+Dual top handles.
+W 15"" x H 15"" x D 9"".
+","45 EUR",24-WB07,http://localhost:8888/magento2/test/pub/media/catalog/product/w/b/wb07-brown-0.jpg,"Gear, Collections, Bags, New Luma Yoga Collection",4.90
+http://localhost:8888/magento2/test/push-it-messenger-bag.html,"Push It Messenger Bag","The name says so, but the Push It Messenger Bag is much more than a busy commuter's tote. It's a closet away from home when you're pedaling from class or work to gym and back or home again. It's the perfect size and shape for laptop, folded clothes, even extra shoes.
+
+Adjustable crossbody strap.
+Top handle.
+Zippered interior pocket.
+Secure clip closures.
+Durable fabric construction.
+","45 EUR",24-WB04,http://localhost:8888/magento2/test/pub/media/catalog/product/w/b/wb04-blue-0.jpg,"Gear, Collections, Bags",4.90
+http://localhost:8888/magento2/test/affirm-water-bottle.html,"Affirm Water Bottle ","You'll stay hydrated with ease with the Affirm Water Bottle by your side or in hand. Measurements on the outside help you keep track of how much you're drinking, while the screw-top lid prevents spills. A metal carabiner clip allows you to attach it to the outside of a backpack or bag for easy access.
+
+Made of plastic.
+Grooved sides for an easy grip.
+","7 EUR",24-UG06,http://localhost:8888/magento2/test/pub/media/catalog/product/u/g/ug06-lb-0.jpg,"Gear, Fitness Equipment",4.90
+http://localhost:8888/magento2/test/dual-handle-cardio-ball.html,"Dual Handle Cardio Ball","Make the most of your limited workout window with our Dual-Handle Cardio Ball. The 15-lb ball maximizes the effort-impact to your abdominal, upper arm and lower-body muscles. It features a handle on each side for a firm, secure grip.
+
+Durable plastic shell with sand fill.
+Two handles.
+15 lbs.
+","12 EUR",24-UG07,http://localhost:8888/magento2/test/pub/media/catalog/product/u/g/ug07-bk-0.jpg,"Gear, Collections, Fitness Equipment",4.90
+http://localhost:8888/magento2/test/zing-jump-rope.html,"Zing Jump Rope","One of the world's simplest and most portable exercise devices, a jump rope enables endless variations and fitness output. The Zing Jump Rope goes anywhere and can be used any time. It is adjustable in length and has contoured foam handles for a great grip.
+
+ Contoured foam handles.
+ Adjustable length.
+","12 EUR",24-UG04,http://localhost:8888/magento2/test/pub/media/catalog/product/u/g/ug04-bk-0.jpg,"Gear, Fitness Equipment",4.90
+http://localhost:8888/magento2/test/pursuit-lumaflex-trade-tone-band.html,"Pursuit Lumaflex&trade; Tone Band","Save your knees and joints while strengthening arms, legs and core with the Pursuit Lumaflex&trade; Tone Band. This ultra-durable training tool lets you complete a full-body workout free of bulky machines or free weights.
+
+Home and/or gym use.
+Ergonomic handles.
+","16 EUR",24-UG02,http://localhost:8888/magento2/test/pub/media/catalog/product/u/g/ug02-bk-0.jpg,"Gear, Fitness Equipment",4.90
+http://localhost:8888/magento2/test/go-get-r-pushup-grips.html,"Go-Get'r Pushup Grips","The Go-Get'r Pushup Grips safely provide the extra range of motion you need for a deep-dip routine targeting core, shoulder, chest and arm strength. Do fewer pushups using more energy, getting better results faster than the standard floor-level technique yield.
+
+Durable foam grips.
+Supportive base.
+","19 EUR",24-UG05,http://localhost:8888/magento2/test/pub/media/catalog/product/u/g/ug05-gr-0.jpg,"Gear, Collections, Fitness Equipment, New Luma Yoga Collection",4.90
+http://localhost:8888/magento2/test/quest-lumaflex-trade-band.html,"Quest Lumaflex&trade; Band","From leg extensions and standing squats to a full range of floor routines, the Quest Strength Band brings your own personal gym with you everywhere you go. Designed to add extra resistance to any training session, this strength band helps you tone and define your muscles. You'll love the extra comfort of its grippy handles and adjustable design.
+
+Adjusts from 30"" to 55"".
+Grippy comfort handles.
+Stretchy rubber construction.
+","19 EUR",24-UG01,http://localhost:8888/magento2/test/pub/media/catalog/product/u/g/ug01-bk-0.jpg,"Gear, Fitness Equipment",4.90
+http://localhost:8888/magento2/test/sprite-foam-yoga-brick.html,"Sprite Foam Yoga Brick","Our top-selling yoga prop, the 4-inch, high-quality Sprite Foam Yoga Brick is popular among yoga novices and studio professionals alike. An essential yoga accessory, the yoga brick is a critical tool for finding balance and alignment in many common yoga poses. Choose from 5 color options.
+
+Standard Large Size: 4"" x 6"" x 9"".
+Beveled edges for ideal contour grip.
+Durable and soft, scratch-proof foam.
+Individually wrapped.
+Ten color choices.
+ ","5 EUR",24-WG084,http://localhost:8888/magento2/test/pub/media/catalog/product/l/u/luma-yoga-brick.jpg,"Gear, Fitness Equipment",4.90
+http://localhost:8888/magento2/test/sprite-foam-roller.html,"Sprite Foam Roller","It hurts so good to use the Sprite Foam Roller on achy, tired muscles for myofascial massage therapy. Or you can add this fundamental piece to your Pilates and yoga accouterment, or apply towards core stability, strengthening and balance exercise. 
+
+6'' wide by 12'' long.
+Safe for myofascial release.
+EPP or PE foam options.
+Solid, dense, closed-cell foam.
+","19 EUR",24-WG088,http://localhost:8888/magento2/test/pub/media/catalog/product/l/u/luma-foam-roller.jpg,"Gear, Fitness Equipment",4.90
+http://localhost:8888/magento2/test/harmony-lumaflex-trade-strength-band-kit.html,"Harmony Lumaflex&trade; Strength Band Kit ","Forget fancy machines and costly memberships - the Harmony Lumaflex&trade; Stength Band Kit is all you need for an amazing workout. The kit has everything you need for a range of strengthening and toning exercises.
+
+Three flex bands.
+Textured, ergonomic grips.
+Adjustable lengths.
+Mesh carry bag included.
+","22 EUR",24-UG03,http://localhost:8888/magento2/test/pub/media/catalog/product/u/g/ug03-bk-0.jpg,"Gear, Fitness Equipment",4.90
+http://localhost:8888/magento2/test/sprite-stasis-ball-55-cm.html,"Sprite Stasis Ball 55 cm","The Sprite Stasis Ball gives you the toned abs, sides, and back you want by amping up your core workout. With bright colors and a burst-resistant design, it's a must-have for every hard-core exercise addict. Use for abdominal conditioning, balance training, yoga, or even physical therapy.
+
+Durable, burst-resistant design.
+Hand pump included.
+","23 EUR",24-WG081-gray,http://localhost:8888/magento2/test/pub/media/catalog/product/l/u/luma-stability-ball-gray.jpg,"Gear, Fitness Equipment",4.90
+http://localhost:8888/magento2/test/aim-analog-watch.html,"Aim Analog Watch","Stay light-years ahead of the competition with our Aim Analog Watch. The flexible, rubberized strap is contoured to conform to the shape of your wrist for a comfortable all-day fit. The face features three illuminated hands, a digital read-out of the current time, and stopwatch functions.
+
+Japanese quartz movement.
+Strap fits 7"" to 8.0"".
+","45 EUR",24-MG04,http://localhost:8888/magento2/test/pub/media/catalog/product/m/g/mg04-bk-0.jpg,"Gear, Watches",4.90
+http://localhost:8888/magento2/test/endurance-watch.html,"Endurance Watch","It's easy to track and monitor your training progress with the Endurance Watch. You'll see standard info like time, date and day of the week, but it also functions for the serious high-mileage athete: lap counter, stopwatch, distance, heart rate, speed/pace, cadence and altitude.
+
+Digital display.
+LED backlight.
+Strap fits 7"" to 10"".
+1-year limited warranty.
+Comes with polished metal case.
+","49 EUR",24-MG01,http://localhost:8888/magento2/test/pub/media/catalog/product/m/g/mg01-bk-0.jpg,"Gear, Watches",4.90
+http://localhost:8888/magento2/test/summit-watch.html,"Summit Watch","Trek high and low in the attractive Summit Watch, which features a digital LED display with time and date, stopwatch, lap counter, and 3-second backlight. It can also calculate the number of steps taken and calories burned.
+
+Brushed metal case.
+Water resistant (100 meters).
+Buckle clasp.
+Strap fits 7"" - 10"".
+1-year limited warranty.
+","54 EUR",24-MG03,http://localhost:8888/magento2/test/pub/media/catalog/product/m/g/mg03-br-0.jpg,"Gear, Collections, Watches, New Luma Yoga Collection",4.90
+http://localhost:8888/magento2/test/cruise-dual-analog-watch.html,"Cruise Dual Analog Watch","Whether you're traveling or wish you were, you'll never let time zones perplex you again with the Cruise Dual Analog Watch. The thick, adjustable band promises a comfortable, personalized fit to this classy, modern time piece.
+
+Two dials.
+Stainless steel case.
+Adjustable leather band.
+","55 EUR",24-MG05,http://localhost:8888/magento2/test/pub/media/catalog/product/m/g/mg05-br-0.jpg,"Gear, Collections, Watches, New Luma Yoga Collection",4.90
+http://localhost:8888/magento2/test/dash-digital-watch.html,"Dash Digital Watch","The Dash Digital Watch will challenge you to push harder and longer. Log workouts by date, average, and segment times, and recharge by setting hydration and nutrition alarms. This watch is styled with a sleek, square face and durable rubber strap for a long life.
+
+Digital display.
+LED backlight.
+Rubber strap with buckle clasp.
+1-year limited warranty.","92 EUR",24-MG02,http://localhost:8888/magento2/test/pub/media/catalog/product/m/g/mg02-bk-0.jpg,"Gear, Collections, Watches, New Luma Yoga Collection",4.90
+http://localhost:8888/magento2/test/luma-analog-watch.html,"Luma Analog Watch","Designed to stand up to your active lifestyle, this women's Luma Analog Watch features a tasteful brushed chrome finish and a stainless steel, water-resistant construction for lasting durability.
+
+Precision Miyota&reg; three-hand movement.
+","43 EUR",24-WG09,http://localhost:8888/magento2/test/pub/media/catalog/product/w/g/wg09-gr-0.jpg,"Gear, Watches",4.90
+http://localhost:8888/magento2/test/bolo-sport-watch.html,"Bolo Sport Watch","The Bolo Sport Watch is sleek, sporty and sized just right to fit your smaller wrist. Easy to read and set up, it features a large digital face and button-activated alarm and stopwatch. The soft-touch resin band promises no-pinch comfort, while the water-resistant design lets you take your workout to the lap pool.
+
+Displays time, day and date.
+Two-tone design.
+12/24 hour formats.
+Nickel-free buckle on band.
+Battery included.
+","49 EUR",24-WG01,http://localhost:8888/magento2/test/pub/media/catalog/product/w/g/wg01-bk-0.jpg,"Gear, Watches",4.90
+http://localhost:8888/magento2/test/clamber-watch.html,"Clamber Watch","Keep track of time on the treadmill or trail with our Clamber Watch. The flexible, rubberized strap is contoured to conform to your wrist for a comfortable fit all day. The face features an illuminated digital read-out of the current time and stopwatch functions.
+
+Japanese quartz movement.
+Strap fits 5"" to 6.0"".
+","54 EUR",24-WG03,http://localhost:8888/magento2/test/pub/media/catalog/product/w/g/wg03-gr-0.jpg,"Gear, Watches",4.90
+http://localhost:8888/magento2/test/didi-sport-watch.html,"Didi Sport Watch","The Didi Sport Watch helps you keep your workout plan down to the second. The vertical, digital face looks sleek and futuristic. This watch is programmed with tons of helpful features such as a timer, an alarm clock, a pedometer, and more to help make your excercise more productive.
+
+Digital display.
+LED backlight.
+Rubber strap with buckle clasp.
+1-year limited warranty.
+","92 EUR",24-WG02,http://localhost:8888/magento2/test/pub/media/catalog/product/w/g/wg02-bk-0.jpg,"Gear, Collections, Watches, New Luma Yoga Collection",4.90
+http://localhost:8888/magento2/test/beginner-s-yoga.html,"Beginner's Yoga","Beginner's Yoga starts you down the path toward strength, balance and mental focus. With this video download, you don't have to be a great athlete or gym guru to learn the best and most basic techniques for lifelong yoga foundation. 
+
+Video download
+Five workouts.
+Balance, strength and endurance.
+Flexibility and core strength.
+Includes modification for novices.
+","6 EUR",240-LV04,http://localhost:8888/magento2/test/pub/media/catalog/product/l/t/lt01.jpg,"Training, Video Download",4.90
+http://localhost:8888/magento2/test/lifelong-fitness-iv.html,"LifeLong Fitness IV","Luma LifeLong Fitness Series is a world recognized, evidence based exercise program designed specifically for individuals focused on staying active their whole lives. If followed regularly, participants will see improved heart rate and blood pressure, increased mobility, reduced joint pain and overall improvement in functional fitness and health.
+
+10 minute warm up.
+30 minutes of mild aerobics.
+20 minutes of strength, stretch and balance.
+Extensive modifications for varying fitness levels.
+","14 EUR",240-LV05,http://localhost:8888/magento2/test/pub/media/catalog/product/l/t/lt02.jpg,"Training, Video Download",4.90
+http://localhost:8888/magento2/test/yoga-adventure.html,"Yoga Adventure","Luma presents an innovative power vinyasa yoga class for intermediate and advanced practitioners. The video allows you to pace yourself, but more intense work yields longer rest. This class is great for more advanced students looking to learn proper alignment in their yoga practice.
+
+Includes a breakdown of 12 different postures.
+Chataranga Dandasana and prayer twist.
+Challenging posture (side crow).
+55 minutes of movement.
+","22 EUR",240-LV06,http://localhost:8888/magento2/test/pub/media/catalog/product/l/t/lt03.jpg,"Training, Video Download",4.90
+http://localhost:8888/magento2/test/solo-power-circuit.html,"Solo Power Circuit","Circuit training helps banish the boredom of traditional workouts. The Solo Power Circuit download lets you experience Luma's maximum efficiency circuit training in the training time you have available. Learn secrets to shed pounds, decrease body fat, sculpt amazing abs, and tone to reshape your entire body. You'll feel the difference after just one circuit.
+
+Targets abs, arms and legs.
+6 fun interval training circuits.
+Easy to follow.
+No special equipment needed.
+43 minutes.
+","14 EUR",240-LV07,http://localhost:8888/magento2/test/pub/media/catalog/product/l/t/lt04.jpg,"Training, Video Download",4.90
+http://localhost:8888/magento2/test/advanced-pilates-yoga-strength.html,"Advanced Pilates & Yoga (Strength)","Advanced Pilates & Yoga will help you to increase your flexibility and tone core muscle groups through an invigorating workout for your whole body. The Pilates workout is a thorough strength-conditioning session that boosts flexibility, endurance and posture. The Yoga workout incorporates legacy and new poses into one continuous routine that will leave you feeling exhausted and fulfilled at once.
+
+Pilates-Yoga fusion.
+Breathing warmup and cooldown.
+Hour-long session.
+High-definition video.
+","18 EUR",240-LV08,http://localhost:8888/magento2/test/pub/media/catalog/product/l/t/lt05.jpg,"Training, Video Download",4.90
+http://localhost:8888/magento2/test/luma-yoga-for-life.html,"Luma Yoga For Life","Increase strength + flexibility + metabolismBurn calories + feel greatGain energy + youthfulness + mental wellness Download descriptionTone up mind and bodyPro Yoga Instructor and Master Practitioner Marie Peale helps tone and sculpt your physique with her invigorating yet gentle approach.You'll learn to use yoga to relax, control stress and increase your calorie-burning capacity, all while exploring traditional and new yoga poses that lengthen and strengthen your full muscular structure.  Easy downloadAudio options: Music and instruction or instruction onlyHeart rate techniques explainedBreathing techniques explainedMove through exercises at your own paceTwo 25-minute workout episodes and one 40-minute workout episode with warm-up and cool down:Episode 1Creative, fun session geared toward opening your lungs. Combines stretching and breathing with a focus on hips and shoulders. Episode 2Ramp up the tempo and energy with calorie-burning flows. A stimulating workout introducing the body-sculpting power of yoga.Episode 3Push your fitness reach and stamina with an intense series of standing and floor exercises and poses. End this extra-length session with a meditative cool down.instructor bioAbout MarieMarie is a trained martial artist and dancer with a BS in Biological Engineering and over 10 years as a certified yoga teacher. Marie has studied yoga in England, India and, in 2009, at the Ashraqat Ashram Yoga Farm in the United States. She has been teaching full time since then. Her focus on strength and wellness combines a deep knowledge of human biology and motivation guided by unconditional love for her audience.","0 EUR",240-LV09,http://localhost:8888/magento2/test/pub/media/catalog/product/l/t/lt06.jpg,"Training, Video Download",4.90
+http://localhost:8888/magento2/test/sprite-yoga-companion-kit.html,"Sprite Yoga Companion Kit","A well-rounded yoga workout takes more than a mat. The Sprite Yoga Companion Kit helps stock your studio with the basics you need for a full-range workout. The kit is composed of four best-selling Luma Sprite accessories in one easy bundle: statis ball, foam block, yoga strap, and foam roller. Choose sizes and colors and leave the rest to us. The kit includes:
+
+ Sprite Statis Ball
+ Sprite Foam Yoga Brick
+ Sprite Yoga Strap
+ Sprite Foam Roller
+","61 EUR",24-WG080,http://localhost:8888/magento2/test/pub/media/catalog/product/l/u/luma-yoga-kit-2.jpg,"Gear, Fitness Equipment",4.90
+http://localhost:8888/magento2/test/chaz-kangeroo-hoodie.html,"Chaz Kangeroo Hoodie","Ideal for cold-weather training or work outdoors, the Chaz Hoodie promises superior warmth with every wear. Thick material blocks out the wind as ribbed cuffs and bottom band seal in body heat.
+&bull; Two-tone gray heather hoodie.&bull; Drawstring-adjustable hood. &bull; Machine wash/dry.","52 EUR",MH01,http://localhost:8888/magento2/test/pub/media/catalog/product/m/h/mh01-gray_main.jpg,"Hoodies & Sweatshirts, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/teton-pullover-hoodie.html,"Teton Pullover Hoodie","This Teton Pullover Hoodie gives you more than laid-back style. It's equipped with moisture-wicking fabric to keep light and dry inside, especially in chilly-weather workouts. An elasticized hem lets you move about freely.
+&bull; Black pullover hoodie.&bull; Soft, brushed interior. &bull; Front hand pockets. &bull; Machine wash/dry.","70 EUR",MH02,http://localhost:8888/magento2/test/pub/media/catalog/product/m/h/mh02-black_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/bruno-compete-hoodie.html,"Bruno Compete Hoodie","Stay comfortable and stay in the race no matter what the weather's up to. The Bruno Compete Hoodie's water-repellent exterior shields you from the elements, while advanced fabric technology inside wicks moisture to keep you dry.
+&bull; Full zip black hoodie pullover. &bull; Adjustable drawstring hood. &bull; Ribbed cuffs/waistband. &bull; Kangaroo pocket. &bull; Machine wash/dry.","63 EUR",MH03,http://localhost:8888/magento2/test/pub/media/catalog/product/m/h/mh03-black_main.jpg,"Hoodies & Sweatshirts, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/frankie-sweatshirt.html,"Frankie  Sweatshirt","The Frankie Sweatshirt is your best friend at long afternoon stadium stints or winter trailside campsites. The soft fleece fabric keeps you toasty as moisture-wicking technology kicks in when the sun comes out.
+&bull; Light green crewneck sweatshirt.&bull; Hand pockets.&bull; Relaxed fit.&bull; Machine wash/dry.","60 EUR",MH04,http://localhost:8888/magento2/test/pub/media/catalog/product/m/h/mh04-green_main.jpg,"Hoodies & Sweatshirts, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/hollister-backyard-sweatshirt.html,"Hollister Backyard Sweatshirt","Kick off your weekend in the Hollister Backyard Sweatshirt. Whether you're raking leaves or flipping burgers, this comfy layer blocks the bite of the crisp autumn air. Puffy thick from hood to hem, it traps heat against your core.
+&bull; Cream crewneck sweatshirt with navy sleeves/trim.&bull; Relaxed fit. &bull; Ribbed cuffs and hem. &bull; Machine wash/dry.","52 EUR",MH05,http://localhost:8888/magento2/test/pub/media/catalog/product/m/h/mh05-white_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/stark-fundamental-hoodie.html,"Stark Fundamental Hoodie","You don't need bells and whistles when performance speaks for itself. The full-zip Stark Fundamental Hoodie give just what you need. Hood and fleece lining keep you warm, while breathable fabric and wicking technology won't let you overheat.
+&bull; Navy specked full zip hoodie.&bull; Ribbed cuffs, banded waist.&bull; Side pockets. &bull; Machine wash/dry.","42 EUR",MH06,http://localhost:8888/magento2/test/pub/media/catalog/product/m/h/mh06-blue_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/hero-hoodie.html,"Hero Hoodie","Gray and black color blocking sets you apart as the Hero Hoodie keeps you warm on the bus, campus or cold mean streets. Slanted outsize front pockets keep your style real . . . convenient.
+&bull; Full-zip gray and black hoodie.&bull; Ribbed hem.&bull; Standard fit.&bull; Drawcord hood cinch.&bull; Water-resistant coating.","54 EUR",MH07,http://localhost:8888/magento2/test/pub/media/catalog/product/m/h/mh07-gray_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/oslo-trek-hoodie.html,"Oslo Trek Hoodie","Chilly weather is just an excuse to throw on your toasty, handsome new Oslo Trek Hoodie. It features an adjustable drawstring hood and a kangaroo pocket for extra hand warmth. The ultra-soft, cozy lining will have you wishing for more brisk days.
+&bull; Brown hoodie with black detail.&bull; Pullover. &bull; Adjustable drawstring hood. &bull; Ribbed cuffs/waistband. &bull; Machine wash/dry.","42 EUR",MH08,http://localhost:8888/magento2/test/pub/media/catalog/product/m/h/mh08-brown_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/abominable-hoodie.html,"Abominable Hoodie","It took CoolTech&trade; weather apparel know-how and lots of wind-resistant fabric to get the Abominable Hoodie just right. It's aggressively warm when it needs to be, while maintaining your comfort in milder climes.
+&bull; Blue heather hoodie.&bull; Relaxed fit. &bull; Moisture-wicking. &bull; Machine wash/dry.","69 EUR",MH09,http://localhost:8888/magento2/test/pub/media/catalog/product/m/h/mh09-blue_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/mach-street-sweatshirt.html,"Mach Street Sweatshirt ","From hard streets to asphalt track, the Mach Street Sweatshirt holds up to wear and wind and rain. An infusion of performance and stylish comfort, with moisture-wicking LumaTech&trade; fabric, it's bound to become an everyday part of your active lifestyle
+&bull; Navy heather crewneck sweatshirt.&bull; LumaTech&trade; moisture-wicking fabric.&bull; Antimicrobial, odor-resistant.&bull; Zip hand pockets.&bull; Chafe-resistant flatlock seams.&bull; Rib-knit cuffs and hem.","62 EUR",MH10,http://localhost:8888/magento2/test/pub/media/catalog/product/m/h/mh10-blue_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/grayson-crewneck-sweatshirt.html,"Grayson Crewneck Sweatshirt ","The Grayson Crewneck Sweatshirt gives you that ageless, classic look &ndash; a style that comes back around nearly every season. What's more, its performance and temp-control values are always in vogue.
+&bull; Cream crewneck sweatshirt with black accents.&bull; 80% cotton/20% polyester fleece. &bull; Patterned knit hood lining. &bull; Knit cuffs and waist. &bull; Pouch pocket. &bull; Curl edged seam detail","64 EUR",MH11,http://localhost:8888/magento2/test/pub/media/catalog/product/m/h/mh11-white_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/ajax-full-zip-sweatshirt.html,"Ajax Full-Zip Sweatshirt ","The Ajax Full-Zip Sweatshirt makes the optimal layering or outer piece for archers, golfers, hikers and virtually any other sportsmen. Not only does it have top-notch moisture-wicking abilities, but the tight-weave fabric also prevents pilling from repeated wash-and-wear cycles.
+&bull; Mint striped full zip hoodie.&bull; 100% bonded polyester fleece.&bull; Pouch pocket.&bull; Rib cuffs and hem. &bull; Machine washable.","69 EUR",MH12,http://localhost:8888/magento2/test/pub/media/catalog/product/m/h/mh12-green_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/marco-lightweight-active-hoodie.html,"Marco Lightweight Active Hoodie","For cold-weather training or post-game layering, you need something more than a basic fleece. Our Marco Lightweight Active Hoodie brings both style and performance to the plate, court, or touchline. The smooth-faced, brushed-back fabric blocks wind and traps body heat, while integrated Cocona&reg; fibers pull moisture away.
+&bull; Light blue heather full zip hoodie.&bull; Fitted flatlock seams.&bull; Matching lining and drawstring. &bull; Machine wash/dry.","74 EUR",MH13,http://localhost:8888/magento2/test/pub/media/catalog/product/m/h/mh13-blue_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/beaumont-summit-kit.html,"Beaumont Summit Kit","The smooth nylon shell around the Beaumont Summit Kit combats wind, reinforced with a cold-fighting brushed fleece layer. The jacket is reversible, giving you a new look for the return trek. Ample pocket space rounds out this hiker's paradise package.
+&bull; Yellow full zip rain jacket.&bull; Full-zip front. &bull; Stand-up collar. &bull; Elasticized cuffs. &bull; Machine wash/dry.","42 EUR",MJ01,http://localhost:8888/magento2/test/pub/media/catalog/product/m/j/mj01-yellow_main.jpg,Jackets,4.90
+http://localhost:8888/magento2/test/hyperion-elements-jacket.html,"Hyperion Elements Jacket","Boldly face high winds, frigid temps and stormy weather the whole winter through in the Hyperion Elements Jacket. LumaTech&trade; insulating technology helps maintain your core temperature and wick sweat. The smooth shell is water repellent and quilted to retain body heat.
+&bull; Lime 1/4 zip pullover.&bull; Split pocket. &bull; Thumb holes. &bull; Machine wash/hang to dry.","51 EUR",MJ02,http://localhost:8888/magento2/test/pub/media/catalog/product/m/j/mj02-green_main.jpg,Jackets,4.90
+http://localhost:8888/magento2/test/kenobi-trail-jacket.html,"Kenobi Trail Jacket","Aside from sealed seams to keep moisture out and body heat in, the Kenobi Trail Vest is all about media convenience. Use your phone and music player without ever taking it out of its cozy compartment: an attached remote on the left chest lets you change songs, pause and raise/lower volume.
+&bull; Black 1/4 zip pullover with royal zipper. &bull; Adjustable hood and sleeve cuffs. &bull; Machine wash/air dry.","47 EUR",MJ04,http://localhost:8888/magento2/test/pub/media/catalog/product/m/j/mj04-black_main.jpg,"Jackets, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/orion-two-tone-fitted-jacket.html,"Orion Two-Tone Fitted Jacket","While you're getting fit, you need a fitted jacket to match. Striking color blocking patterns on hood, shoulders and arms are hallmarks of the Orion Two-Tone Fitted Jacket. They provide eye-catching contrast against the rich, torso tones of this 100% polyester, moisture-wicking essential.
+&bull; Red full zip fleece with gray insets.&bull; Double-knit construction.&bull; Full athletic cut.&bull; Set in sleeves.&bull; Front pouch pocket.","72 EUR",MJ07,http://localhost:8888/magento2/test/pub/media/catalog/product/m/j/mj07-red_main.jpg,Jackets,4.90
+http://localhost:8888/magento2/test/lando-gym-jacket.html,"Lando Gym Jacket","The Lando Gym Jacket offers strategic ventilation at perspiration-prone areas, while moisture-wicking technology helps you stay dry. Side-seam pockets house your favorite media device, so you're plugged in when working out.
+&bull; Gray polyester/spandex full zip jacket with orange lining. &bull; Right pocket device storage.&bull; Cocona&reg; performance fabric. &bull; Machine wash/dry.","99 EUR",MJ08,http://localhost:8888/magento2/test/pub/media/catalog/product/m/j/mj08-gray_main.jpg,Jackets,4.90
+http://localhost:8888/magento2/test/taurus-elements-shell.html,"Taurus Elements Shell","What's a little rain or snow when you're inside the Taurus Elements Shell? This specially engineered Cocona&reg; jacket lets you enjoy the great outdoors and brave the elements, thanks to the all-waterproof, breathable exterior.
+&bull; Yellow 1/4 zip pullover. &bull; Two chest pockets.&bull; Standard fit. &bull; Waterproof, breathable, seam sealed. &bull; Cocona&reg; performance fabric. &bull; Machine wash/dry.","65 EUR",MJ09,http://localhost:8888/magento2/test/pub/media/catalog/product/m/j/mj09-yellow_main.jpg,Jackets,4.90
+http://localhost:8888/magento2/test/mars-heattech-trade-pullover.html,"Mars HeatTech&trade; Pullover","The Mars HeatTech&trade; Jacket defense against winter climes so you can play offense in the park, on the trail or in the deck chair. Great for the ski lodge or stadium, it features a wind- and water-resistant outer shell with a draw-cord hood and deep pockets for storage.
+&bull; Red 1/4 zip pullover.&bull; Adjustable VELCRO&reg; sleeve cuffs. &bull; Two hand pockets. &bull; Napoleon pocket. &bull; Machine wash/dry","66 EUR",MJ10,http://localhost:8888/magento2/test/pub/media/catalog/product/m/j/mj10-red_main.jpg,Jackets,4.90
+http://localhost:8888/magento2/test/typhon-performance-fleece-lined-jacket.html,"Typhon Performance Fleece-lined Jacket","Ironmen and couch warriors both reach for the Typhon Performance Fleece-lined Jacket. After all, no man can resist ultra-soft microfleece lining. Flatlock seams make it ideal for wearing over everything from tanks and tees to high-tech base layers.
+&bull; Black full-zip flight jacket.&bull; Cocona&reg; wicking fiber.&bull; Machine wash/dry.","60 EUR",MJ11,http://localhost:8888/magento2/test/pub/media/catalog/product/m/j/mj11-black_main.jpg,Jackets,4.90
+http://localhost:8888/magento2/test/jupiter-all-weather-trainer.html,"Jupiter All-Weather Trainer ","Inclement climate be damned. With your breathable, water-resistant Jupiter All-Weather Trainer, you can focus on fuel and form and leave protection and comfort to us. The fabric is a special light fleece that wicks moisture and insulates at once.
+&bull; Relaxed fit. &bull; Hand pockets. &bull; Machine wash/dry.&bull; Reflective safety trim.","56.99 EUR",MJ06,http://localhost:8888/magento2/test/pub/media/catalog/product/m/j/mj06-blue_main.jpg,"Jackets, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/montana-wind-jacket.html,"Montana Wind Jacket","Light-as-a-feather wind protection for runners, walkers and outdoor fitness buffs, the Montana Wind Jacket can be stuffed into your pocket for portable protection. Its stylish, move-with-you design makes it especially versatile.
+Adjustable hood. Split pocket. Thumb holes. Machine wash/hang to dry.","49 EUR",MJ03,http://localhost:8888/magento2/test/pub/media/catalog/product/m/j/mj03-black_main.jpg,Jackets,4.90
+http://localhost:8888/magento2/test/proteus-fitness-jackshirt.html,"Proteus Fitness Jackshirt","Part jacket, part shirt, the Proteus Fitness Jackshirt makes an ideal companion for outdoor training, camping or loafing on crisp days. Natural Cocona&reg; technology brings breathable comfort and increased dryness along with UV protection and odor management. The drop-tail hem provides extra coverage when you're riding a bike or replacing a sink valve.
+&bull; 1/4 zip. Stand-up collar. &bull; Machine wash/dry.&bull; Quilted inner layer.","45 EUR",MJ12,http://localhost:8888/magento2/test/pub/media/catalog/product/m/j/mj12-orange_main.jpg,Jackets,4.90
+http://localhost:8888/magento2/test/gobi-heattec-reg-tee.html,"Gobi HeatTec&reg; Tee","When the training gets intense, the Gobi HeatTec&reg; Tee works as hard as you do to maintain your cool. The moisture-wicking material promises drier comfort, while breathable side panels deliver extra stretch that's sure to keep you moving.
+&bull; Orange micropolyester shirt.&bull; HeatTec&reg; wicking fabric.&bull; Crew neckline. &bull; Machine wash/dry.","29 EUR",MS04,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/ms04-orange_main.jpg,Tees,4.90
+http://localhost:8888/magento2/test/helios-evercool-trade-tee.html,"Helios EverCool&trade; Tee","Pumping iron or dialing the track, you've got cool comfort on your side in our short-sleeve Helios EverCool&trade; Tee. The fabric is infused with moisture-wicking technology that pulls sweat off your skin for speedy evaporation. Stretchy fabric gussets encourage ventilation while increasing your range of motion.
+&bull; Teal quick dry tee.&bull; Relaxed fit. &bull; Crew neckline. &bull; Machine wash/dry.","24 EUR",MS05,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/ms05-blue_main.jpg,"Tees, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/ryker-lumatech-trade-tee-crew-neck.html,"Ryker LumaTech&trade; Tee (Crew-neck)","The crew-neck Ryker LumaTech&trade; Tee hides premium performance technology beneath unassuming looks. The featherweight blend of fabrics wicks away moisture to keep you cool and dry in every phase of your active life.
+&bull; Royal polyester tee with black accents.&bull; Relaxed fit. &bull; Short-Sleeve. &bull; Machine wash/dry.","32 EUR",MS09,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/ms09-blue_main.jpg,Tees,4.90
+http://localhost:8888/magento2/test/atomic-endurance-running-tee-v-neck.html,"Atomic Endurance Running Tee (V-neck)","Reach your limit and keep on going in the Atomic Endurance Running Tee. Built to help any athlete push past the wall with loads of performance features.
+&bull; Lime heathered v-neck tee. &bull; Ultra-lightweight.&bull; Moisture-wicking Cocona&reg; fabric.&bull; Machine wash/dry.","28 EUR",MS11,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/ms11-green_main.jpg,Tees,4.90
+http://localhost:8888/magento2/test/atomic-endurance-running-tee-crew-neck.html,"Atomic Endurance Running Tee (Crew-Neck)","Like it's v-neck counterpart, the crew-neck Atomic Tee will get you to your goal and beyond with its many load-bearing features: ultra-lightweight, moisture-wicking Cocona&reg; fabric, chafe-free flatlock seams and an ergonomic cut that moves with your body.
+&bull; Red polyester tee.&bull; Crew neckline. &bull; Cocona&reg; performance fabric. &bull; Machine wash/dry.","29 EUR",MS12,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/ms12-red_main.jpg,Tees,4.90
+http://localhost:8888/magento2/test/balboa-persistence-tee.html,"Balboa Persistence Tee","The Balboa Persistence Tee is a must-have for any athlete, Philadelphia or elsewhere. We took the best of performance apparel, cut the fluff and boiled it down to the basics for a lightweight, quick-drying t-shirt.
+&bull; Crew neckline. &bull; Semi-fitted. &bull; Cocona&reg; performance fabric. &bull; Machine wash/dry.","29 EUR",MS03,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/ms03-black_main.jpg,Tees,4.90
+http://localhost:8888/magento2/test/zoltan-gym-tee.html,"Zoltan Gym Tee","This short-sleeve wonder works twice as hard to give you good gym days and good looks. The Zoltan Gym Tee helps you stay comfortable, while the looser sleeves and flatlock seams keep you moving in chafe-free comfort.
+&bull; Relaxed fit. &bull; Crew neckline. &bull; Machine wash/dry.","29 EUR",MS06,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/ms06-blue_main.jpg,Tees,4.90
+http://localhost:8888/magento2/test/aero-daily-fitness-tee.html,"Aero Daily Fitness Tee","Need an everyday action tee that helps keep you dry? The Aero Daily Fitness Tee is made of 100% polyester wicking knit that funnels moisture away from your skin. Don't be fooled by its classic style; this tee hides premium performance technology beneath its unassuming look.
+Relaxed fit. Short-Sleeve. Machine wash/dry.","24 EUR",MS01,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/ms01-blue_main.jpg,Tees,4.90
+http://localhost:8888/magento2/test/ryker-lumatech-trade-tee-v-neck.html,"Ryker LumaTech&trade; Tee (V-neck)","Don't be fooled by its classic style; the Ryker LumaTech&trade; Tee embodies the future of performance apparel. Its featherweight blend of fabrics wicks away moisture to keep you cool and dry, whether racking up miles, hitting three pointers or strutting the boardwalk.
+&bull; Relaxed fit. &bull; Short-Sleeve. &bull; Machine wash/dry.","28 EUR",MS02,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/ms02-gray_main.jpg,Tees,4.90
+http://localhost:8888/magento2/test/logan-heattec-reg-tee.html,"Logan  HeatTec&reg; Tee","Soft and lightweight, the Logan HeatTec&reg; Tee gets you through the long haul in total comfort. It boasts superior sweat-wicking performance to keep skin dry and cool, and strategic flat-lock seams to resist chafing.
+&bull; Semi-fitted. &bull; Crew neckline. &bull; Machine wash/tumble dry.","24 EUR",MS10,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/ms10-blue_main.jpg,Tees,4.90
+http://localhost:8888/magento2/test/deion-long-sleeve-evercool-trade-tee.html,"Deion Long-Sleeve EverCool&trade; Tee","When you're training, ordinary tees don't cut it. That's why the Dion Long-Sleeve EverCool&trade; Tee features revolutionary Cocona&reg; fabric derived from a renewable resource: coconut shells. This unique material protects you from harmful UV rays, wicks away sweat, controls stink and dries quickly.
+&bull; Fitted. &bull; Contrast inner neck tape. &bull; Machine wash/dry.","39 EUR",MS07,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/ms07-green_main.jpg,Tees,4.90
+http://localhost:8888/magento2/test/strike-endurance-tee.html,"Strike Endurance Tee","While grit and purpose keep you going, it helps to have a little extra comfort, too. Our Strike Long-Sleeve Endurance Tee helps ensures a photo-ready finish with advanced sweat-wicking technology for a cool, dry feel.
+&bull; Loose fit. &bull; Ribbed cuffs/collar. &bull; Machine wash/dry.","39 EUR",MS08,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/ms08-black_main.jpg,Tees,4.90
+http://localhost:8888/magento2/test/erikssen-cooltech-trade-fitness-tank.html,"Erikssen CoolTech&trade; Fitness Tank","A good running tank helps make the miles pass by keep you cool. The Erikssen CoolTech&trade; Fitness Tank completes that mission, with performance fabric engineered to wick perspiration and promote airflow.
+&bull; Red performance tank.&bull; Slight scoop neckline. &bull; Reflectivity. &bull; Machine wash/dry.","29 EUR",MT01,http://localhost:8888/magento2/test/pub/media/catalog/product/m/t/mt01-red_main.jpg,Tanks,4.90
+http://localhost:8888/magento2/test/tristan-endurance-tank.html,"Tristan Endurance Tank","Push yourself through punishing runs, plyometric workouts, intense competition and more in our athletic Tristan Endurance Tank. Constructed with built-in moisture-wicking technology, it's designed to keep you completely cool and dry on the long haul.
+&bull; White performance tank.&bull; Stylish contrast stitching. &bull; Relaxed fit. &bull; Ribbed crew neckline. &bull; Machine wash/dry.","29 EUR",MT02,http://localhost:8888/magento2/test/pub/media/catalog/product/m/t/mt02-white_main.jpg,Tanks,4.90
+http://localhost:8888/magento2/test/primo-endurance-tank.html,"Primo Endurance Tank","Chances are your workout goes beyond free weights, which is why the Primo Endurance Tank employs maximum versatility. Run, lift or play ball &ndash; this breathable mesh top will keep you cool during all your activities.
+&bull; Red heather tank with gray pocket.&bull; Chafe-resistant flatlock seams. &bull; Relaxed fit. &bull; Contrast topstitching.&bull; Machine wash/dry.","29 EUR",MT03,http://localhost:8888/magento2/test/pub/media/catalog/product/m/t/mt03-red_main.jpg,Tanks,4.90
+http://localhost:8888/magento2/test/helios-endurance-tank.html,"Helios Endurance Tank","When training pushes your limits, you need gear that works harder than you. Our mesh Helio Training Tank is crafted from super-soft, ultra-lightweight fabric that stretches in all directions to follow your every move, on mat, court or street.
+&bull; Blue heather tank with gray pocket.&bull; Contrast sides and back inserts.&bull; Self-fabric binding at neck and armholes. &bull; Machine wash/dry.","32 EUR",MT04,http://localhost:8888/magento2/test/pub/media/catalog/product/m/t/mt04-blue_main.jpg,Tanks,4.90
+http://localhost:8888/magento2/test/rocco-gym-tank.html,"Rocco Gym Tank","Weights? Heavy Bag? Bikram? However you get sweaty, you'll be prepared with the moisture-wicking all-purpose Rocco Gym Tank. The free-moving cut gives you maximum range of motion, with flatlock seams to eliminate chafing.
+&bull; Light blue heather gray tank.&bull; Quick-drying, moisture-wicking.&bull; 4-way stretch construction.&bull; Flatlock seams prevent chafing.&bull; Mesh at back for breathability.&bull; 100% Polyester.&bull; UPF 50 protection.","24 EUR",MT05,http://localhost:8888/magento2/test/pub/media/catalog/product/m/t/mt05-blue_main.jpg,Tanks,4.90
+http://localhost:8888/magento2/test/vulcan-weightlifting-tank.html,"Vulcan Weightlifting Tank","The Olympic styled Vulcan Weightlifting Tank features polyester stretch and flex. Hit the rack in sleeveless style and unleash your personal best. This tank is designed to max performance, comfort and range of motion.
+&bull; Black polyester spandex tank.&bull; 100% polyester.&bull; Freedom of movement.&bull; No-chafe seams.","28 EUR",MT06,http://localhost:8888/magento2/test/pub/media/catalog/product/m/t/mt06-black_main.jpg,Tanks,4.90
+http://localhost:8888/magento2/test/argus-all-weather-tank.html,"Argus All-Weather Tank","The Argus All-Weather Tank is sure to become your favorite base layer or go-to cover for hot outdoor workouts. With its subtle reflective safely trim, you can even wear it jogging on urban evenings.
+&bull; Dark gray polyester spandex tank.&bull; Reflective details for nighttime visibility. &bull; Stash pocket.&bull; Anti-chafe flatlock seams.","22 EUR",MT07,http://localhost:8888/magento2/test/pub/media/catalog/product/m/t/mt07-gray_main.jpg,"Tanks, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/sparta-gym-tank.html,"Sparta Gym Tank","The high performance Sparta Gym Tank is made with thin, light, merino wool and aims to be the perfect base layer or balmy weather running and fitness top.
+&bull; Green polyester tank.&bull; Ultra lightweight.&bull; Naturally odor-resistant.&bull; Close-to-body athletic fit.&bull; Chafe-resistant flatlock seams.","29 EUR",MT08,http://localhost:8888/magento2/test/pub/media/catalog/product/m/t/mt08-green_main.jpg,Tanks,4.90
+http://localhost:8888/magento2/test/sinbad-fitness-tank.html,"Sinbad Fitness Tank","Solid in color and construction, the 100% cotton-weave Sinbad Fitness Tank moves with you as you press, hold, crunch and stride your way to the ultimate you.
+&bull; Teal polyester tank.&bull; Premium fit tank top.&bull; Ultra lightweight.&bull; Naturally odor-resistant.","29 EUR",MT09,http://localhost:8888/magento2/test/pub/media/catalog/product/m/t/mt09-blue_main.jpg,Tanks,4.90
+http://localhost:8888/magento2/test/tiberius-gym-tank.html,"Tiberius Gym Tank","Whether you're classy or just sweaty, the Tiberius Gym Tank helps you look good while you're at it. What's more, its moisture-wicking, quick-drying, anti-microbial and anti-odor construction help ensure you're welcome back to the gym.
+&bull; Yellow scoop neck cotton tank.&bull; Comfortable, relaxed fit.&bull; 55% Hemp / 45% Organic Cotton.&bull; Pesticide- and herbicide-free hemp.","18 EUR",MT10,http://localhost:8888/magento2/test/pub/media/catalog/product/m/t/mt10-yellow_main.jpg,Tanks,4.90
+http://localhost:8888/magento2/test/atlas-fitness-tank.html,"Atlas Fitness Tank","From weekend warrior to Warrior Pose II, no role can beat the Atlas Fitness Tank, a versatile top for gym and yoga studio. Wicking-weave soft fabric helps prevent uncomfortable chafing.
+&bull; Teal scoop neck cotton tank.&bull; Triblend, soft fabric.&bull; Relaxed fit.","18 EUR",MT11,http://localhost:8888/magento2/test/pub/media/catalog/product/m/t/mt11-blue_main.jpg,"Tanks, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/cassius-sparring-tank.html,"Cassius Sparring Tank","Whether you're up against a partner or the clock, the Cassius Sparring Tank is in your corner, moving effortless with your body. The light and loose feel gives you no reason to give up before the bell or the end of the block.
+&bull; Royal crewneck cotton tank.&bull; Contrast stitching.&bull; Self fabric binding at neckline.&bull; Slim fit.&bull; 96% Merino / 4% LYCRA&reg;.","18 EUR",MT12,http://localhost:8888/magento2/test/pub/media/catalog/product/m/t/mt12-blue_main.jpg,Tanks,4.90
+http://localhost:8888/magento2/test/caesar-warm-up-pant.html,"Caesar Warm-Up Pant","Command your workout and keep your muscles limber in the Caesar Warm-Up Pant. Engineered CoolTech&trade; fabric wicks away moisture so you don't have to worry about sweat and discomfort. The drawstring-adjustable waist helps make sure your pants fit properly.
+&bull; Light gray heather knit straight leg pants.&bull; Relaxed fit. &bull; Inseam: 32"". &bull; Machine wash/dry.&bull; CoolTech&trade; wicking fabric.","35 EUR",MP01,http://localhost:8888/magento2/test/pub/media/catalog/product/m/p/mp01-gray_main.jpg,"Pants, Pants, Default Category",4.90
+http://localhost:8888/magento2/test/viktor-lumatech-trade-pant.html,"Viktor LumaTech&trade; Pant","You'll love the new Viktor LumaTech&trade; Pant, with featherweight fleece fabric lining and stretchy, sweat-wicking material. It delivers toasty warmth on the sidelines or in cold-weather training, with reflective trim for a safe finish.
+&bull; Dark gray polyester/spandex straight leg pants.&bull; Elastic waistband and internal drawstring.&bull; Relaxed fit. &bull; Machine wash/dry.","46 EUR",MP02,http://localhost:8888/magento2/test/pub/media/catalog/product/m/p/mp02-gray_main.jpg,"Pants, Pants, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/geo-insulated-jogging-pant.html,"Geo Insulated Jogging Pant","In the cold, even the toughest guys shiver, unless they're in the Geo Insulated Jogging Pant. Lightweight and wind resistant, they block brutal wind gusts and warm you to the bone. Breathable mesh keeps them dry on the inside.
+&bull; Black polyester spandex pants with zipper pockets.&bull; Reflective safety accents. &bull; Loose fit.&bull; On-seam pockets. &bull; 8"" leg zips. 32"" inseam. &bull; Machine wash/dry.","51 EUR",MP03,http://localhost:8888/magento2/test/pub/media/catalog/product/m/p/mp03-black_main.jpg,"Pants, Pants, New Luma Yoga Collection, Default Category",4.90
+http://localhost:8888/magento2/test/supernova-sport-pant.html,"Supernova Sport Pant","Turn the corner and open it up -- your driveway is two blocks away. The Supernova Sport Pant gets you there with key features like moisture-wicking LumaTech&trade; fabric and mesh ventilation. Side seam pockets ensure total convenience during rest periods.
+&bull; Dark heather gray straight leg cotton pants.&bull; Relaxed fit. &bull; Internal drawstring. &bull; Machine wash/dry.","45 EUR",MP04,http://localhost:8888/magento2/test/pub/media/catalog/product/m/p/mp04-gray_main.jpg,"Pants, Pants, Default Category",4.90
+http://localhost:8888/magento2/test/kratos-gym-pant.html,"Kratos Gym Pant","Like it's namesake god of strength, the Kratos Gym Pant help you bring your best to bear on weight-based, plyometric and endurance exercise. They stretch and support in all the right places while ultra-light construction and moisture-wicking technology provide comfort.
+&bull; Navy cotton straight leg pants.&bull; Relaxed fit. &bull; 2 side-seam pockets. &bull; Internal zip pocket. &bull; Drawstring waist. &bull; Machine wash/dry.","57 EUR",MP05,http://localhost:8888/magento2/test/pub/media/catalog/product/m/p/mp05-blue_main.jpg,"Pants, Pants, New Luma Yoga Collection, Default Category",4.90
+http://localhost:8888/magento2/test/mithra-warmup-pant.html,"Mithra Warmup Pant","When you're not sure you're up to the weather, don the Mithra Warmup Pant for a confidence boost. Its supersoft, stretchy fabric and fleece-like finish help prep your muscles and ease your mind. Designed for relaxed, easy-wear fit with handy ankle zips.
+&bull; Ankle zips.&bull; Elasticized waistband with draw cord.&bull; Dual hand pockets.&bull; Reflective elements for low-light safety.","28 EUR",MP06,http://localhost:8888/magento2/test/pub/media/catalog/product/m/p/mp06-gray_main.jpg,"Pants, Pants, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/thorpe-track-pant.html,"Thorpe Track Pant","Thirty degree temps are chilly for most, except when you're in Thorpe Track Pants. These top-of-the-line track bottoms are made from fast-drying, weather-resistant fabric with an internal breathable layer of mesh nylon to wick away moisture.
+&bull; Moisture transfer properties. &bull; 7% stretch.&bull; Reflective safety trim.&bull; Elastic drawcord waist.","68 EUR",MP07,http://localhost:8888/magento2/test/pub/media/catalog/product/m/p/mp07-blue_main.jpg,"Pants, Pants, New Luma Yoga Collection, Default Category",4.90
+http://localhost:8888/magento2/test/zeppelin-yoga-pant.html,"Zeppelin Yoga Pant","Climb every mountain, or hold every pose, in the all-purpose Zepellin Yoga Pant. With its thin fleece interior and smooth layer-friendly surface, you'll get all the comfort and versatility you need.
+&bull; Smooth exterior for easy over-layering.&bull; Brushed fleece interior insulates and wicks. &bull; No-roll elastic waistband with inner drawstring.&bull; Chafe-resistant flatlock seams.","82 EUR",MP08,http://localhost:8888/magento2/test/pub/media/catalog/product/m/p/mp08-green_main.jpg,"Pants, Pants, New Luma Yoga Collection, Default Category",4.90
+http://localhost:8888/magento2/test/livingston-all-purpose-tight.html,"Livingston All-Purpose Tight","It's not often that your pants work as a yoga staple and a climbing buddy. The Livingston All-Purpose Tight is made with soft, 11% cotton and nylon polymer stretch construction that lets you find the right angle in the studio or on the mountain side.
+&bull; Breathable stretch organic cotton/spandex.&bull; Compression fit&bull; Hidden key pocket&bull; Elastic waist with internal drawcord.","75 EUR",MP09,http://localhost:8888/magento2/test/pub/media/catalog/product/m/p/mp09-blue_main.jpg,"Pants, Pants, New Luma Yoga Collection, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/orestes-yoga-pant.html,"Orestes Yoga Pant ","The Orestes Yoga Pant is a yoga basic that sustains the novice yogi well into the expert stage. Organic sustainable cotton and 9% stretch spandex let your body bend to your will while your conscience stays clear.
+&bull; A yoga essential.&bull; Breathable stretch organic cotton/spandex.&bull; Standard Fit.","66 EUR",MP10,http://localhost:8888/magento2/test/pub/media/catalog/product/m/p/mp10-black_main.jpg,"Pants, Pants, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/aether-gym-pant.html,"Aether Gym Pant ","The Aether Gym Pant is built for the studio, but adapts perfectly well to outdoor and gym environs too. With lightweight stretch fabric and water-repellent exterior, the Aether is ready for all comers.
+&bull; Pants/shorts convertible.&bull; Lightweight moisture wicking. &bull; Water repellent.&bull; Belted waist.","74 EUR",MP11,http://localhost:8888/magento2/test/pub/media/catalog/product/m/p/mp11-brown_main.jpg,"Pants, Pants, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/cronus-yoga-pant.html,"Cronus Yoga Pant ","Guys who love yoga love this all-purpose yoga pant. Designed for yoga, gym and lounge, the Cronus Yoga Pant is a loose-fitting, classic-style pant made from a lightweight blend of cotton, recycled polyester and a touch of Spandex for the stretch factor.
+&bull; Drawstring waist.&bull; Loose, straight-leg fit.&bull; Lightweight cotton-recycled blend.&bull; Front pockets with stitching detail.&bull; Elastic ankle.","48 EUR",MP12,http://localhost:8888/magento2/test/pub/media/catalog/product/m/p/mp12-black_main.jpg,"Pants, Pants, Default Category",4.90
+http://localhost:8888/magento2/test/cobalt-cooltech-trade-fitness-short.html,"Cobalt CoolTech&trade; Fitness Short","It's not rocket surgery: the hotter your conditions, the more you need to stay cool. That's why the Cobalt CoolTech&trade; Fitness Short features built-in technology and side perforations that keep you ventilated and comfortable for the distance. The elastic waist promises a personalized fit.
+&bull; Light blue nylon shorts.&bull; Relaxed fit. &bull; 5"" inseam. &bull; Machine wash/dry.","44 EUR",MSH01,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/msh01-blue_main.jpg,"Shorts, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/apollo-running-short.html,"Apollo Running Short","Fleet of foot or slow and steady, you'll be in complete comfort with the Apollo Running Short. Lightweight polyester material lets you move with ease, and mesh side panels promise plenty of ventilation as you work up a sweat. The stretchy elastic waistband delivers a flexible fit.
+&bull; Black shorts with green accents.&bull; Side pockets. &bull; 4"" inseam. &bull; Machine wash/dry.","32.5 EUR",MSH02,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/msh02-black_main.jpg,Shorts,4.90
+http://localhost:8888/magento2/test/meteor-workout-short.html,"Meteor Workout Short","Step into the Meteor Workout Short for an incredibly lightweight fitness experience. Its breathable construction and an inner brief provide additional comfort and support, while the adjustable waistband offers the perfect fit to take you to the finish.
+&bull; Royal blue shorts with light blue accents.&bull; Interior drawstring waistband. &bull; 7"" inseam. &bull; Machine wash/dry.","32.5 EUR",MSH03,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/msh03-blue_main.jpg,"Shorts, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/torque-power-short.html,"Torque Power Short","Take a turn in the Torque Power Short and enjoy the smooth, motion-friendly stretch and sweat-wicking, UV-protective material. You'll stay cool, dry and energized miles later.
+&bull; Light gray shorts.&bull; Fitted design. &bull; Elastic waistband. &bull; Flat-seam construction. &bull; 7"" inseam. &bull; Machine wash/dry.","32.5 EUR",MSH04,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/msh04-gray_main.jpg,Shorts,4.90
+http://localhost:8888/magento2/test/hawkeye-yoga-short.html,"Hawkeye Yoga Short","What more do you need than a sporty yoga short made with organic cotton and a little spandex for mobility? The Hawkeye Yoga Short brings a stylish, standard fit you can sport with confidence outside the studio.
+&bull; Dark gray shorts with red accents.&bull; 92% Organic Cotton 8% Spandex.&bull; Breathable stretch organic cotton.&bull; Medium=8.0"" (21.0cm) inseam.","29 EUR",MSH05,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/msh05-gray_main.jpg,"Shorts, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/lono-yoga-short.html,"Lono Yoga Short","Some shorts are &ldquo;all-purpose,&rdquo; while the Lono Yoga Short has a single purpose: yoga. Soft, flexible outer material moves with your body, and a secure, integrated boxer brief liner gives you extra confidence as you push your physique to the outer limits.
+&bull; Dark gray shorts with mesh accents.&bull; Ultra flexible four-way stretch.&bull; Flatlock seams and waistband.&bull; Two pockets, phony fly.&bull; Nylon/Lycra outer, Polyester/Lycra inner.","32 EUR",MSH06,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/msh06-gray_main.jpg,"Shorts, New Luma Yoga Collection, Default Category",4.90
+http://localhost:8888/magento2/test/rapha-sports-short.html,"Rapha  Sports Short","For those about to sweat, we support you with the Rapha Sports Short. The compression-fit liner surrounds your muscles with the stimulation they need to find your high gear, while moisture-wicking performance fabric helps prevents sweat build-up.
+&bull; Black shorts with royal accents.&bull; Compression liner. &bull; Inseam: 8"". &bull; Machine wash/dry.","35 EUR",MSH07,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/msh07-black_main.jpg,"Shorts, Men Sale, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/orestes-fitness-short.html,"Orestes Fitness Short","You're out of excuses not to run, lift, or play when you own a pair of the Orestes Fitness Short. You won't complain about the high-performance polyester wicking fabric, reflective safety trim or seamless built-in comfort brief, either.
+&bull; Black shorts with dark gray accents.&bull; Elasticized waistband with interior drawstring.&bull; Ventilating mesh detailing.&bull; 100% polyester and recycled polyester.&bull; Machine wash cold, tumble dry low.","35 EUR",MSH08,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/msh08-black_main.jpg,"Shorts, Men Sale, Default Category",4.90
+http://localhost:8888/magento2/test/troy-yoga-short.html,"Troy Yoga Short","The versatile, all-purpose Troy Yoga Short is knee-lengthed with an elastic waistband with drawstring, making it comfortably flexible. The removable LumaTech&trade; wicking liner is also bacteria resistant.
+&bull; Navy polyester pinstripe shorts.&bull; Woven fabric with moderate stretch.&bull; 62% cotton/34% nylon/4% spandex.&bull; LumaTech&trade; lining.","24 EUR",MSH09,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/msh09-blue_main.jpg,"Shorts, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/sol-active-short.html,"Sol Active Short","You'll let your fear go and push your limits in your new Sol Active Short. Featuring ultra-breathable performance fabric and a flat comfort-fit waistband, the Sol Active Short is perfect for high-intensity circuits or high-heat bikram.
+&bull; Light blue jersey shorts with mesh detail.&bull; 87% Spandex 13% Lycra.&bull; Machine wash cold, tumble dry low.&bull; Superior performance fabric.&bull; Flat-lock seams.","32 EUR",MSH10,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/msh10-blue_main.jpg,"Shorts, New Luma Yoga Collection, Default Category",4.90
+http://localhost:8888/magento2/test/arcadio-gym-short.html,"Arcadio Gym Short","The Arcadio Gym short is a basic-looking piece with a lot more than meets the eye: casual-yet-functional relaxed fit, comfortable waistband and adjustable drawstring. Everything you need, plus more.
+&bull; Royal blue cotton shorts.&bull; Built-in mesh brief. &bull; 87% Spandex 13% Lycra.&bull; Adjustable drawstring.","20 EUR",MSH11,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/msh11-blue_main.jpg,Shorts,4.90
+http://localhost:8888/magento2/test/pierce-gym-short.html,"Pierce Gym Short","The Pierce Gym Short is similar to our Arcadio Gym Short, but designed with a fitted, tapered look. A flat waistband with an adjustable drawstring adds comfort, with zippered pockets for safe, easy storage.
+&bull; Dark red cotton shorts. &bull; 87% Supplex, 13% Lycra.&bull; Adjustable drawstring waistband.&bull; Built-in mesh brief.&bull; Machine wash cold, tumble dry low.","27 EUR",MSH12,http://localhost:8888/magento2/test/pub/media/catalog/product/m/s/msh12-red_main.jpg,"Shorts, Men Sale, Default Category",4.90
+http://localhost:8888/magento2/test/mona-pullover-hoodlie.html,"Mona Pullover Hoodlie","Whether you're after energizing activity or eye-catching apparel, the Mona Pullover is what you want. You'll stay warm and look fashionable, wherever you are.  &bull; Light green heathered hoodie.  &bull; Long-Sleeve, pullover. &bull; Long elliptical hem for extra coverage. &bull; Deep button placket for layering. &bull; Double rib design. &bull; Mid layer, mid weight. &bull; 98% Merino Wool / 2% Spandex","57 EUR",WH01,http://localhost:8888/magento2/test/pub/media/catalog/product/w/h/wh01-green_main.jpg,"Hoodies & Sweatshirts, New Luma Yoga Collection, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/hera-pullover-hoodie.html,"Hera Pullover Hoodie","Get ready to rule the studio and dominate the yoga mat in the Hera Pullover Hoodie, a cozy yet classy look for any level of yogi.
+&bull; Teal with purple stiching.&bull; Hoodie pullover.&bull; Snug fit.","48 EUR",WH02,http://localhost:8888/magento2/test/pub/media/catalog/product/w/h/wh02-blue_main.jpg,"Hoodies & Sweatshirts, Women Sale, Default Category",4.90
+http://localhost:8888/magento2/test/autumn-pullie.html,"Autumn Pullie","With ultra-soft fleece fabric and an athletic design, our short-sleeve Autumn Pullie delivers a comfortable fit that makes it an everyday essential. A luxurious roll neck protects you from elements.
+&bull; Cayenne Short-Sleeve roll neck sweatshirt. &bull; Relaxed fit. &bull; Short-Sleeves. &bull; Machine wash/dry.","57 EUR",WH03,http://localhost:8888/magento2/test/pub/media/catalog/product/w/h/wh03-red_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/miko-pullover-hoodie.html,"Miko Pullover Hoodie","After quality gym time, put on the Miko Pullover Hoody and keep your body warm. You'll find it's fashionable enough for the streets, but comfy enough to relax in at home.
+&bull; Teal two-tone hoodie.&bull; Low scoop neckline.&bull; Adjustable hood drawstrings.&bull; Longer rounded hemline for extra back coverage.&bull; Long-Sleeve style.","69 EUR",WH04,http://localhost:8888/magento2/test/pub/media/catalog/product/w/h/wh04-blue_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/selene-yoga-hoodie.html,"Selene Yoga Hoodie","The Selene Yoga Hoodie gets you to and from the studio in semi form-fitted comfort. Snug, sleek contours add fashion to function in this free-moving yoga warm up sweatshirt.
+&bull; Ivory heather full zip 3/4 sleeve hoodie.&bull; Zip pocket at arm for convenient storage.&bull; 24.0"" body length.&bull; 89% Polyester / 11% Spandex.","42 EUR",WH05,http://localhost:8888/magento2/test/pub/media/catalog/product/w/h/wh05-white_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/daphne-full-zip-hoodie.html,"Daphne Full-Zip Hoodie","The Daphne Hoodie is an attractive yet rugged layering or outer piece, especially for chilly days en route the studio, doing yardwork or enjoying outdoor recreation.
+&bull; Purple full zip hoodie with pink accents. &bull; Heather texture.&bull; 4-way stretch.&bull; Pre-shrunk.&bull; Hood lined in vegan Sherpa for added warmth.&bull; Ribbed hem on hood and front pouch pocket.&bull; 60% Cotton / 40% Polyester.","59 EUR",WH06,http://localhost:8888/magento2/test/pub/media/catalog/product/w/h/wh06-purple_main.jpg,"Hoodies & Sweatshirts",4.90
+http://localhost:8888/magento2/test/phoebe-zipper-sweatshirt.html,"Phoebe Zipper Sweatshirt","A sophisticated layer of warmth awaits you in our full-zip sweatshirt jacket. You'll reach for this one in any season to enjoy its sturdy exterior and plush interior.
+&bull; Gray full zip hoodie with yellow detail.&bull; Hand-warmer pockets. &bull; Zip MP3 pocket with outlet for earphones wire. &bull; Polyester/cotton. &bull; Washable.","59 EUR",WH07,http://localhost:8888/magento2/test/pub/media/catalog/product/w/h/wh07-gray_main.jpg,"Hoodies & Sweatshirts, New Luma Yoga Collection, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/cassia-funnel-sweatshirt.html,"Cassia Funnel Sweatshirt","The casual Cassia Funnel Sweatshirt sports front angled pockets and a drawstring stretch funnel hoodie. A cowl front neck pairs with a tagless label at back neck.
+&bull; White full zip hoodie with gray detail.&bull; 65% Cotton/28% Nylon/7% Spandex.&bull; Front slash pockets.&bull; Tagless label at back neck.","48 EUR",WH08,http://localhost:8888/magento2/test/pub/media/catalog/product/w/h/wh08-white_main.jpg,"Hoodies & Sweatshirts, Women Sale, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/ariel-roll-sleeve-sweatshirt.html,"Ariel Roll Sleeve Sweatshirt","Soft, sleek and subtle, the Ariel Roll Sleeve Sweatshirt is a nuanced fitness garment for all occasions. It works equally well as a workout piece or in a casual social setting.
+&bull; Purple two-tone lightweight hoodie. &bull; 100% cotton.&bull; Adjustable roll sleeves for Long-Sleeve or 3/4 sleeve.&bull; Casual, comfy piece for running errands or weekend activities.","39 EUR",WH09,http://localhost:8888/magento2/test/pub/media/catalog/product/w/h/wh09-purple_main.jpg,"Hoodies & Sweatshirts, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/helena-hooded-fleece.html,"Helena Hooded Fleece","Wear this hoodie after the gym or before a chilly weather bike ride. Either way, this versatile sweatshirt offers an effortlessly appealing silhouette and a super-comfy fit. Smooth, stretchy fabric creates flattering shape, while the full-zip placket and hood help block gusty winds.
+Full zip. Banded cuffs and waist. Front pockets. Machine wash/dry.","55 EUR",WH10,http://localhost:8888/magento2/test/pub/media/catalog/product/w/h/wh10-gray_main.jpg,"Hoodies & Sweatshirts, New Luma Yoga Collection, Default Category",4.90
+http://localhost:8888/magento2/test/eos-v-neck-hoodie.html,"Eos V-Neck Hoodie","Getting chilly before class starts? Wear the Eos on your way to and from yoga for a cute and cozy warmup piece. Reach for its reliable comfort and enjoy a super-soft blend of fabrics finished in sporty style that includes a hidden kangaroo pocket.
+Semi-fitted. Long-Sleeve. Machine wash/line dry.","54 EUR",WH11,http://localhost:8888/magento2/test/pub/media/catalog/product/w/h/wh11-blue_main.jpg,"Hoodies & Sweatshirts, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/circe-hooded-ice-fleece.html,"Circe Hooded Ice Fleece","Keep shivers at bay with the Circe Hooded Ice Fleece. Ultra-thick, high-pile fleece traps your body heat and keeps cold outside. The drawstring hood and ribbed details add extra coziness and touches of classic style. Its relaxed fit is loose enough to layer comfortably over your shirt.
+Full-zip front. Three-panel hood. Flatlock seams throughout. Welt hand pockets. Machine wash/dry.","68 EUR",WH12,http://localhost:8888/magento2/test/pub/media/catalog/product/w/h/wh12-gray_main.jpg,"Hoodies & Sweatshirts, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/stellar-solar-jacket.html,"Stellar Solar Jacket","Beat the heat and protect yourself from sunrays with the Stellar Solar Jacket. It's loaded with all the engineered features you need for an intense, safe outdoor workout: 100% UV protection, a breathable perforated construction, and advanced moisture-wicking technology.
+&bull; Loose fit. &bull; Reflectivity. &bull; Flat seams. &bull; Machine wash/dry.&bull; Deep pink jacket with front panel rouching","75 EUR",WJ01,http://localhost:8888/magento2/test/pub/media/catalog/product/w/j/wj01-red_main.jpg,"Jackets, New Luma Yoga Collection, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/josie-yoga-jacket.html,"Josie Yoga Jacket","When your near future includes yoga, the cozy comfort of the Josie Yoga Jacket gets your mind and body ready. Stretchy CoolTech&trade; fabric with zipper pockets makes this jacket the right gear for studio time or teatime after.
+&bull; Slate rouched neck pullover.&bull; Moisture-wicking fabric.&bull; Hidden zipper.&bull; Mesh armpit venting.&bull; Dropped rear hem.","56.25 EUR",WJ02,http://localhost:8888/magento2/test/pub/media/catalog/product/w/j/wj02-gray_main.jpg,"Jackets, Women Sale, Default Category",4.90
+http://localhost:8888/magento2/test/augusta-pullover-jacket.html,"Augusta Pullover Jacket","It's hard to be uncomfortable in the Augusta Pullover Jacket with &frac14; zip. With an incredibly soft fleece lining and textured outer fabric, it offers reliable protection from the elements and a cozy fit as well.
+&bull; Pink half-zip pullover. &bull; Front pouch pockets. &bull; Fold-down collar.","57 EUR",WJ03,http://localhost:8888/magento2/test/pub/media/catalog/product/w/j/wj03-red_main.jpg,Jackets,4.90
+http://localhost:8888/magento2/test/ingrid-running-jacket.html,"Ingrid Running Jacket","The Ingrid Running Jacket combines sleek design and high performance with slim, contoured fit and moisture-wicking fabric. It features a full-zip construction and a collared neck to keep the elements out and body heat in. &bull; Slim fit. &bull; Moisture-wicking fabric. &bull; Two side pockets. &bull; Zippered pocket at back waist. &bull; Machine wash/dry.&bull; Ivory specked full zip","84 EUR",WJ04,http://localhost:8888/magento2/test/pub/media/catalog/product/w/j/wj04-white_main.jpg,"Jackets, New Luma Yoga Collection, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/riona-full-zip-jacket.html,"Riona Full Zip Jacket","The Riona Basic Zip Jacket makes the perfect extra layer for cold-weather workouts. It features amazing breathability and moisture management, but full-length zipper lets you moderate your core temperature even more.
+&bull; Brown heather full zip rouched jacket.&bull; Side hand pockets for extra storage.&bull; High collar.&bull; Thick cuffs for extra coverage.&bull; Durable, shape retention material to longer wear.","60 EUR",WJ05,http://localhost:8888/magento2/test/pub/media/catalog/product/w/j/wj05-brown_main.jpg,Jackets,4.90
+http://localhost:8888/magento2/test/inez-full-zip-jacket.html,"Inez Full Zip Jacket","The Inez Full Zip jacket is more than a cute layer. It's a full-on tech wonder you'll use for outdoor, pre and post workout. You'll love how the highlighted zipper and sleeve safety trim protect and catch looks.
+&bull; Purple heather inset full zip jacket.&bull; Full zip hoodie.&bull; Contrast binding along the zipper, hood and sleeves.&bull; Inseam pockets for storage.&bull; Thumbholes for comfortable fit.","59 EUR",WJ07,http://localhost:8888/magento2/test/pub/media/catalog/product/w/j/wj07-purple_main.jpg,Jackets,4.90
+http://localhost:8888/magento2/test/adrienne-trek-jacket.html,"Adrienne Trek Jacket","You're ready for a cross-country jog or a coffee on the patio in the Adrienne Trek Jacket. Its style is unique with stand collar and drawstrings, and it fits like a jacket should.
+&bull; gray 1/4 zip pullover.&bull; Comfortable, relaxed fit.&bull; Front zip for venting.&bull; Spacious, kangaroo pockets.&bull; 27"" body length.&bull; 95% Organic Cotton / 5% Spandex.","57 EUR",WJ08,http://localhost:8888/magento2/test/pub/media/catalog/product/w/j/wj08-gray_main.jpg,"Jackets, Women Sale, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/jade-yoga-jacket.html,"Jade Yoga Jacket","If only all your other jackets were as comfortable as the relaxed-fit Jade Yoga Jacket, perfect for use during stretching, biking to and from studio or strolling on breezy fall days.
+&bull; Seafoam 1/4 zip pullover with purple stitching.&bull; Lightweight, quick-drying, water-resistant construction.&bull; Shirred details at front and back for a feminine look.&bull; Hood collapses into collar.&bull; Mesh liner for breathability.&bull; Front zip pockets.&bull; Hem cinches at sideseam.&bull; 100% Polyester.","32 EUR",WJ09,http://localhost:8888/magento2/test/pub/media/catalog/product/w/j/wj09-green_main.jpg,"Jackets, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/nadia-elements-shell.html,"Nadia Elements Shell","Protect yourself from wind and rain in the stylish Nadia Elements Shell. It repels water using hydro-resistant fabric, with fleece lining that adds a touch of warmth. It's finished with bold contrast zippers, adjustable cuffs and a hood.
+&bull; Zippered front. &bull; Zippered side pockets. &bull; Drawstring-adjustable waist and hood. &bull; Machine wash/line dry.&bull; Light blue 1/4 zip pullover.","69 EUR",WJ10,http://localhost:8888/magento2/test/pub/media/catalog/product/w/j/wj10-yellow_main.jpg,"Jackets, New Luma Yoga Collection, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/neve-studio-dance-jacket.html,"Neve Studio Dance Jacket","If you're constantly on the move, the Neve Studio Dance Jacket is for you. It's not just for dance, either, with a tight fit that works as a mid-layer. The reversible design makes it even more versatile.
+&bull; Bright blue 1/4 zip pullover.&bull; CoolTech&trade; liner is sweat-wicking.&bull; Sleeve thumbholes.&bull; Zipper garage to protect your chin.&bull; Stretchy collar drawcords.","69 EUR",WJ11,http://localhost:8888/magento2/test/pub/media/catalog/product/w/j/wj11-blue_main.jpg,"Jackets, New Luma Yoga Collection, Default Category",4.90
+http://localhost:8888/magento2/test/juno-jacket.html,"Juno Jacket","On colder-than-comfortable mornings, you'll love warming up in the Juno All-Ways Performanc Jacket, designed to compete with wind and chill. Built-in Cocona&reg; technology aids evaporation, while a special zip placket and stand-up collar keep your neck protected.
+&bull; Adjustable hood.&bull; Fleece-lined, zippered hand pockets.&bull; Thumbhole cuffs.&bull; Full zip.&bull; Mock-neck collar.&bull; Machine wash/dry.","77 EUR",WJ06,http://localhost:8888/magento2/test/pub/media/catalog/product/w/j/wj06-purple_main.jpg,"Jackets, Women Sale, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/olivia-1-4-zip-light-jacket.html,"Olivia 1/4 Zip Light Jacket","Running errands or headed to the gym, you just want to be comfortable. The Olivia Light Jacket promises that, plus a laid-back look. This zip-up is designed with shoulder stripes for an athletic touch, and banded waist and contoured seams for a flattering silhouette.
+&bull; Loose fit.&bull; Reflectivity.&bull; Flat seams.&bull; Machine wash/dry.","77 EUR",WJ12,http://localhost:8888/magento2/test/pub/media/catalog/product/w/j/wj12-blue_main.jpg,"Jackets, Women Sale, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/gabrielle-micro-sleeve-top.html,"Gabrielle Micro Sleeve Top","Luma's most popular top, the Gabrielle Micro Sleeve is back with even more comfort and style.
+&bull; Lime green v-neck tee.&bull; Slimming, flattering fit.&bull; Moisture-wicking, quick-drying, anti-microbial, and anti-odor construction.&bull; Longer curved hem provides additional coverage.&bull; 55% Hemp / 45% Organic Cotton.","28 EUR",WS02,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/ws02-green_main.jpg,"Tees, Tees, New Luma Yoga Collection, Default Category",4.90
+http://localhost:8888/magento2/test/iris-workout-top.html,"Iris Workout Top","The Iris Workout Top is sleeveless, body fitting and moisture wicking for a fashionable, functional garment. Rouched textures add style.
+&bull; Pink heather rouched v-neck.&bull; Scoop neckline.&bull; Angled flat seams.&bull; Moisture wicking.&bull; Body skimming.&bull; 83% Polyester / 11% TENCEL&reg; Lyocell / 6% Lycra&reg; Spandex.","29 EUR",WS03,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/ws03-red_main.jpg,"Tees, Tees, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/layla-tee.html,"Layla Tee","Work out or hang out in chic style in the Layla Tee. With a lightweight sheer design and a roomy neckline, this tee fits you comfortably while looking stylish.
+&bull; Teal tee.&bull; Long back hem.&bull; Dropped shoulders.","29 EUR",WS04,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/ws04-green_main.jpg,"Tees, Tees, New Luma Yoga Collection, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/elisa-evercool-trade-tee.html,"Elisa EverCool&trade; Tee","When rising temps threaten to melt you down, Elisa EverCool&trade; Tee brings serious relief. Moisture-wicking fabric pulls sweat away from your skin, while the innovative seams hug your muscles to enhance your range of motion.
+&bull; Purple heather v-neck tee.&bull; Short-Sleeves.&bull; Luma EverCool&trade; fabric. &bull; Machine wash/line dry.","29 EUR",WS06,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/ws06-purple_main.jpg,"Tees, Tees, New Luma Yoga Collection, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/juliana-short-sleeve-tee.html,"Juliana Short-Sleeve Tee","The Juliana Short-Sleeve Tee gives you more than sporty style. Consider that its soft Cocona&reg; polyester fabric accelerates evaporation to help keep you dry and comfortable, too. And a selection of colors lets you get more than one.
+&bull; Black scoop neck tee.&bull; Side rouching.&bull; Relaxed fit.","42 EUR",WS07,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/ws07-black_main.jpg,"Tees, Tees, New Luma Yoga Collection, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/minerva-lumatech-trade-v-tee.html,"Minerva LumaTech&trade; V-Tee","Don't be fooled by the simple design of our Minerva LumaTech&trade; V-Neck Tee. This classic training top features the same serious sweat-wicking technology as some of the more expensive tees in our lineup.
+&bull; Navy blue heather soft v-neck tee.&bull; Flatlock seams for chafe-free comfort.&bull; Relaxed cut.&bull; Ultra-lightweight fabric.&bull; Machine wash/dry.","32 EUR",WS08,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/ws08-blue_main.jpg,"Tees, Tees, Women Sale, Default Category",4.90
+http://localhost:8888/magento2/test/tiffany-fitness-tee.html,"Tiffany Fitness Tee","You'll work out and look cute doing it in the short-sleeve Tiffany Fitness Tee. The longer length and fitted cut offer a smoother silhouette, while scoop neck pattern and drape effects lend a trendy touch.
+&bull; Teal soft scoop neck tee.&bull; Contrast stitching pattern. &bull; Machine wash/dry.","28 EUR",WS09,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/ws09-blue_main.jpg,"Tees, Tees, Women Sale, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/karissa-v-neck-tee.html,"Karissa V-Neck Tee","The Karissa V-Neck Tee features a semi-fitted shape that's flattering for every figure. You can hit the gym with confidence while it hugs curves and hides common ""problem"" areas.
+&bull; Pink heather soft v-neck tee. &bull; Luma signature micro sleeves.&bull; Semi-fitted. &bull; Machine wash/dry.","32 EUR",WS10,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/ws10-red_main.jpg,"Tees, Tees, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/diva-gym-tee.html,"Diva Gym Tee","The Diva Gym Tee feels like your favorite right out of the mailbox. Micro-sleeved, lightweight and extra comfortable, it's a casual staple that hides incredible comfort behind a laid-back, carefree look.
+&bull; Bright yellow v-neck tee.&bull; Moisture-wicking fabric. &bull; Long-Sleeves. &bull; Machine wash/line dry.","32 EUR",WS11,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/ws11-yellow_main.jpg,"Tees, Tees, Women Sale, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/radiant-tee.html,"Radiant Tee","So light and comfy, you'll love the Radiant Tee's organic fabric, feel, performance and style. You may never want to stop moving in this shirt.
+&bull; Salmon soft scoop neck tee.&bull; Athletic, semi-form fit.&bull; Flat seams prevent chafing.&bull; 67% Organic Cotton / 28% Hemp / 5% Spandex.","22 EUR",WS12,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/ws12-orange_main.jpg,"Tees, Tees, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/gwyn-endurance-tee.html,"Gwyn Endurance Tee","When the miles add up, comfort is crucial. The short-sleeve Gwyn Endurance Tee is designed with an ultra-lightweight blend of breathable fabrics to help you tackle your training. Female-specific seams and a sporty v-neckline offer subtle style.
+&bull; Short-Sleeves.&bull; Machine wash/line dry.","24 EUR",WS01,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/ws01-black_main.jpg,"Tees, Tees, Default Category",4.90
+http://localhost:8888/magento2/test/desiree-fitness-tee.html,"Desiree Fitness Tee","When you're too far to turn back, thank yourself for choosing the Desiree Fitness Tee. Its ultra-lightweight, ultra-breathable fabric wicks sweat away from your body and helps keeps you cool for the distance.
+&bull; Short-Sleeves.&bull; Performance fabric.&bull; Machine wash/line dry.","24 EUR",WS05,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/ws05-black_main.jpg,"Tees, Tees, Default Category",4.90
+http://localhost:8888/magento2/test/electra-bra-top.html,"Electra Bra Top","A heavenly soft and stylish eco garment, the Electra Bra Top is perfect for wearing on its own as a hot yoga top or layered under a tank.
+&bull; Gray rouched bra top.&bull; Attractive back straps feature contrasting motif fabric.&bull; Interior bra top is lined with breathable mesh.&bull; Elastic underband for superior support.&bull; Removable cup inserts.&bull; Chafe-free flat lock seams provide added comfort.","39 EUR",WB01,http://localhost:8888/magento2/test/pub/media/catalog/product/w/b/wb01-gray_main.jpg,"Bras & Tanks, Women Sale, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/erica-evercool-sports-bra.html,"Erica Evercool Sports Bra","Perfect for medium-impact workouts, our Erica EverCool&trade; Sports Bra brings a brilliant combo of comfort and style. Moisture-wicking technology keeps you dry, and the flattering hybrid racerback promises an unbeatable range of motion.
+&bull; Honeycomb light blue bra top.&bull; Elastic hem.&bull; Reinforced binding. &bull; Machine wash/dry.","39 EUR",WB02,http://localhost:8888/magento2/test/pub/media/catalog/product/w/b/wb02-blue_main.jpg,"Bras & Tanks",4.90
+http://localhost:8888/magento2/test/celeste-sports-bra.html,"Celeste Sports Bra","Whatever your goals for the day's workout, the Celeste Sports Bra lets you do it in comfort and coolness, plus enhanced support and shaping. A power mesh back zone and moisture-wicking fabric ensure you stay dry.
+&bull; Mint bra top. &bull; Seam-free interior molded cups&bull; Odor control. &bull; UV protection. &bull; Machine wash/dry.","39 EUR",WB03,http://localhost:8888/magento2/test/pub/media/catalog/product/w/b/wb03-green_main.jpg,"Bras & Tanks, New Luma Yoga Collection, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/prima-compete-bra-top.html,"Prima Compete Bra Top","Pull on the Prima Compete Bra Top and you'll love the fabric: soft, stretchy, and ultra lightweight. But you'll also love the racerback cut, for freer movement through all your athletic feats. `&bull; Colorblocked details.&bull; Machine wash/line dry.","24 EUR",WB04,http://localhost:8888/magento2/test/pub/media/catalog/product/w/b/wb04-blue_main.jpg,"Bras & Tanks",4.90
+http://localhost:8888/magento2/test/lucia-cross-fit-bra.html,"Lucia Cross-Fit Bra ","Being cool is a big part of being comfy, which is why the Lucia Cross-Fit Bra features moisture-wicking technology as well as soft, lightweight fabric.
+&bull; Black/white bra top. &bull; Criss-cross back design. &bull; Machine wash/dry.","39 EUR",WB05,http://localhost:8888/magento2/test/pub/media/catalog/product/w/b/wb05-black_main.jpg,"Bras & Tanks",4.90
+http://localhost:8888/magento2/test/bella-tank.html,"Bella Tank","Style, performance and comfort mix it up in the Bella Tank. With striking color block contrast, fitted form and a built-in bra, you'll be supported and stylish at the same time.
+&bull; Navy blue tank top - cotton.&bull; Feminine scoop neckline.&bull; Power mesh lining in shelf bra for superior support.&bull; Soft, breathable fabric.&bull; Dry wick fabric to stay cool and dry.","29 EUR",WT01,http://localhost:8888/magento2/test/pub/media/catalog/product/w/t/wt01-blue_main.jpg,"Bras & Tanks, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/zoe-tank.html,"Zoe Tank","The Zoe Tank leads with eye-catching fitness-pop looks, keeping your studio style uptrend. The inner shelf bra and soft, breathable fabric create a tank top that looks, feels and fits great.
+&bull; Salmon heather tank top.&bull; 1"" elastic band on inner bra.&bull; Mesh lining on shelf bra for support.&bull; Soft, breathable fabric.&bull; Dry wick fabric to stay cool and dry.","29 EUR",WT02,http://localhost:8888/magento2/test/pub/media/catalog/product/w/t/wt02-orange_main.jpg,"Bras & Tanks",4.90
+http://localhost:8888/magento2/test/nora-practice-tank.html,"Nora Practice Tank","A closet go-to, the Nora Practice Tank can be worn at or after workouts or beneath a baggy tee for a laid-back style. Perfect fit and very comfortable!
+&bull; Pink stripped tank with side rouching.&bull; Pre-shrunk.&bull; Garment dyed.&bull; 92% Organic Cotton/8% Lycra.","39 EUR",WT03,http://localhost:8888/magento2/test/pub/media/catalog/product/w/t/wt03-red_main.jpg,"Bras & Tanks, New Luma Yoga Collection, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/nona-fitness-tank.html,"Nona Fitness Tank","It doesn't matter if your goal is 5 miles or an hour of Vinyasa, because our Nona Fitness Tank does it all. You don't have to sacrifice either -- this v-neck top features smooth, chafe-free seams and a breathable mesh back insert. Cute, too.
+&bull; Blue/white striped mesh tank.&bull; Relaxed fit. &bull; Chafe-resistant trim around armholes and collar. &bull; Machine wash/dry.","39 EUR",WT04,http://localhost:8888/magento2/test/pub/media/catalog/product/w/t/wt04-blue_main.jpg,"Bras & Tanks, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/leah-yoga-top.html,"Leah Yoga Top","The Leah Yoga Top offers a practical, comfortable upper that will not compromise your style. Body hugging fit and interior shelf bra make it suitable for active or leisure pursuits.
+&bull; Blue heather rouched tank top.&bull; Camisole tank top.&bull; Banding and shirring details.&bull; Body hugging fit.&bull; Contrast topstitch.&bull; Interior shelf bra with shapewear technology.&bull; 65% Polyester 35% Cotton.","39 EUR",WT05,http://localhost:8888/magento2/test/pub/media/catalog/product/w/t/wt05-purple_main.jpg,"Bras & Tanks, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/chloe-compete-tank.html,"Chloe Compete Tank","You've earned your figure, so stay cool and let it do all the talking in the form-fitted, sleek racerback Chloe Compete Tank. Designed for total range of motion and performance, the Nona is made with highly breathable mesh fabric.
+&bull; Royal blue tank top - nylon/spandex.&bull; Flatlock stitching.&bull; Moisture-wicking fabric. &bull; Ergonomic seaming. &bull; Machine wash/dry.","39 EUR",WT06,http://localhost:8888/magento2/test/pub/media/catalog/product/w/t/wt06-blue_main.jpg,"Bras & Tanks",4.90
+http://localhost:8888/magento2/test/maya-tunic.html,"Maya Tunic","With abutted seams and moisture wicking capacity, the Maya Tunic lets you work out in complete comfort.
+&bull; Mint green heather tunic-style tank. &bull; Wrapped back with cut out detail.&bull; Drawcord detail at end.&bull; Abutted seams.","29 EUR",WT07,http://localhost:8888/magento2/test/pub/media/catalog/product/w/t/wt07-green_main.jpg,"Bras & Tanks, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/antonia-racer-tank.html,"Antonia Racer Tank","You won't know what you like best about the Antonia Racer Tank: soft, stretchy, lightweight fabric? Super-cute colorblocked details? Whatever it is, this piece is sure to quickly move to the top of your workout rotation.
+&bull; Machine wash.&bull; Line dry.","34 EUR",WT08,http://localhost:8888/magento2/test/pub/media/catalog/product/w/t/wt08-black_main.jpg,"Bras & Tanks, Women Sale, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/breathe-easy-tank.html,"Breathe-Easy Tank","The Breathe Easy Tank is so soft, lightweight, and comfortable, you won't even know it's there -- until its high-tech Cocona&reg; fabric starts wicking sweat away from your body to help you stay dry and focused. Layer it over your favorite sports bra and get moving.
+&bull; Machine wash/dry.&bull; Cocona&reg; fabric.","34 EUR",WT09,http://localhost:8888/magento2/test/pub/media/catalog/product/w/t/wt09-white_main.jpg,"Bras & Tanks, Women Sale, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/karmen-yoga-pant.html,"Karmen Yoga Pant","Good for running, hiking, lounging or stretching, the Cora Parachute Pant presents comfortable styling designed to help you look and feel great.
+&bull; Light blue parachute pants.&bull; Power mesh internal waistband for support.&bull; Internal waistband pocket.&bull; Antimicrobial finish.","39 EUR",WP01,http://localhost:8888/magento2/test/pub/media/catalog/product/w/p/wp01-gray_main.jpg,"Pants, Pants, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/emma-leggings.html,"Emma Leggings","These comfortable and practical leggings pair perfectly with any workout top or casual tee. The Emma's subtle contrast fabric and fit ensure you're stylish without overdoing it.
+&bull; Light blue heather yoga pants. &bull; Body hugging fit.&bull; Low rise fit.","42 EUR",WP02,http://localhost:8888/magento2/test/pub/media/catalog/product/w/p/wp02-blue_main.jpg,"Pants, Pants, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/ida-workout-parachute-pant.html,"Ida Workout Parachute Pant","The Ida Workout Parachute Pant is made of lightweight, super-soft fabric that keeps you comfortable during any level of activity, whether Downward Dog or a few trail miles.
+&bull; Royal blue parachute pants.&bull; Contrast stripe.&bull; Relaxed fit. &bull; Drawstring closure.&bull; Machine wash/dry.","48 EUR",WP03,http://localhost:8888/magento2/test/pub/media/catalog/product/w/p/wp03-blue_main.jpg,"Pants, Pants, New Luma Yoga Collection, Default Category",4.90
+http://localhost:8888/magento2/test/cora-parachute-pant.html,"Cora Parachute Pant","Good for running, hiking, lounging or stretching, the Cora Parachute Pant presents comfortable styling designed to help you look and feel great.
+&bull; Light blue parachute pants.&bull; Power mesh internal waistband for support.&bull; Internal waistband pocket.&bull; Antimicrobial finish.","75 EUR",WP04,http://localhost:8888/magento2/test/pub/media/catalog/product/w/p/wp04-blue_main.jpg,"Pants, Pants, Default Category",4.90
+http://localhost:8888/magento2/test/sahara-leggings.html,"Sahara Leggings","Contrast colors, full-length leggings, and opaque, high-stretch fabric define the Sahara. Flat-locked seams and quick-drying wicking properties prevent chafing. A deep elasticated waistband and carefully positioned seamlines create a flattering silhouette.
+&bull; Pinstripe legging with rouched ankles.&bull; Secret pocket at waistband.&bull; Flat seams for comfort.&bull; Shaped fit with low rise.&bull; 4-way stretch, moisture-wicking material.","75 EUR",WP05,http://localhost:8888/magento2/test/pub/media/catalog/product/w/p/wp05-gray_main.jpg,"Pants, Pants, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/diana-tights.html,"Diana Tights","Perfect for hot bikram session or cool-down stretching. 8-percent stretch means you'll feel like anything is possible in the capri-style Diana Tights.
+&bull; Black legging with slate details.&bull; Flat-lock, chafe-free side seams.&bull; Vented gusset.&bull; Secret interior pocket.&bull; Sustainable and recycled fabric.","59 EUR",WP06,http://localhost:8888/magento2/test/pub/media/catalog/product/w/p/wp06-black_main.jpg,"Pants, Pants, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/aeon-capri.html,"Aeon Capri","Reach for the stars and beyond in these Aeon Capri pant. With a soft, comfortable feel and moisture wicking fabric, these duo-tone leggings are easy to wear -- and wear attractively.
+&bull; Black capris with teal accents.&bull; Thick, 3"" flattering waistband.&bull; Media pocket on inner waistband.&bull; Dry wick finish for ultimate comfort and dryness.","48 EUR",WP07,http://localhost:8888/magento2/test/pub/media/catalog/product/w/p/wp07-black_main.jpg,"Pants, Pants, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/bardot-capri.html,"Bardot Capri","Black is back &mdash; was it ever gone? &mdash; which means all your favorite tops will get along with the comfortable and versatile Bardot Capri.
+&bull; Black capris with pink waistband.&bull; Cropped leggings.&bull; Waistband drawcord. &bull; Flat, thin and flattering.&bull; Made with organic fabric.","48 EUR",WP08,http://localhost:8888/magento2/test/pub/media/catalog/product/w/p/wp08-black_main.jpg,"Pants, Pants, Default Category",4.90
+http://localhost:8888/magento2/test/carina-basic-capri.html,"Carina Basic Capri","Perfect as workout pants or ""accessory,"" the Carina Basic Capri is comfy as it is practical -- try it under skirts or shorts.
+&bull; Black capris with rouching detail.&bull; 93% cotton, 7% spandex.&bull; Elasticized waistband.&bull; Reinforced seams with exposed topstitching.&bull; Soft, medium-weight jersey with added stretch.","51 EUR",WP09,http://localhost:8888/magento2/test/pub/media/catalog/product/w/p/wp09-black_main.jpg,"Pants, Pants, Default Category",4.90
+http://localhost:8888/magento2/test/daria-bikram-pant.html,"Daria Bikram Pant","The Daria Bikram Pant is designed to stretch and move with your body to make extreme yoga extremely comfortable.
+&bull; Heather gray capris with pink striped waist.&bull; Flatlock seams.&bull; Interior pocket.","51 EUR",WP10,http://localhost:8888/magento2/test/pub/media/catalog/product/w/p/wp10-gray_main.jpg,"Pants, Pants, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/sylvia-capri.html,"Sylvia Capri","Enjoy a sleek, slendering look in new Silvia Capri. Its engineer-designed support fabric feels great and gives the illusion of a slimmer fit.
+&bull; Green striped capri.&bull; Strategic side seam&bull; Comfort gusset with lining.&bull; Flat seaming.&bull; Wide waistband.&bull; Moisture wicking.","42 EUR",WP11,http://localhost:8888/magento2/test/pub/media/catalog/product/w/p/wp11-green_main.jpg,"Pants, Pants, Default Category",4.90
+http://localhost:8888/magento2/test/deirdre-relaxed-fit-capri.html,"Deirdre Relaxed-Fit Capri","Invigorate your yoga practice with this Deirdre Relaxed-Fit Capri, designed to let you move without strain or restriction.
+&bull; Heather gray capris with mint green waist &amp; accents.&bull; Comfortable, relaxed fit with high rise.&bull; Moisture-wicking, 4-way stretch construction.&bull; Lined with mesh for better support.&bull; Hidden pocket at waistband.&bull; Flatlock seams and lined gusset for comfort.","63 EUR",WP12,http://localhost:8888/magento2/test/pub/media/catalog/product/w/p/wp12-gray_main.jpg,"Pants, Pants, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/portia-capri.html,"Portia Capri","From yoga at dawn to evenings curled up with a book, our Portia Capri gives you the comfort and freedom to cruise through the day. The high-waisted design keeps you covered while you're bending and stretching, while contrast stripes promise a dash of sporty style.
+&bull; Salmon heather capri sweats.&bull; Relaxed fit, high waist. &bull; Inseam: 21"". &bull; Wide elastic waistband. &bull; Machine wash/dry.","49 EUR",WP13,http://localhost:8888/magento2/test/pub/media/catalog/product/w/p/wp13-orange_main.jpg,"Pants, Pants, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/fiona-fitness-short.html,"Fiona Fitness Short","Don't let the plain style fool you: the Fiona Fitness Short demands notice on several levels. Comfort, of course. But also a performance-grade wicking fabric that takes everything you can give.
+&bull; Black run shorts - cotton/spandex.&bull; 5&rdquo; inseam.&bull; Machine wash/Line dry.","29 EUR",WSH01,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/wsh01-black_main.jpg,"Shorts, New Luma Yoga Collection, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/maxima-drawstring-short.html,"Maxima Drawstring Short","Even laid-back women like to stay stylish, and that's just what the Maxima Drawstring Short delivers. An elastic waist keeps the fit flexible, on the deck at home or on a trail walk. Sporty tennis flair adds an athletic accent.
+&bull; Light gray run shorts - cotton polyester. &bull; Contrast binding. &bull; 3"" inseam. &bull; Machine wash/dry.","28 EUR",WSH02,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/wsh02-gray_main.jpg,"Shorts, Women Sale, Default Category",4.90
+http://localhost:8888/magento2/test/gwen-drawstring-bike-short.html,"Gwen Drawstring Bike Short","For a completely modern style with moisture-wicking CoolTech&trade; technology, try the Gwen Drawstring Bike Short. Subtle grays and eye catching stitching combine with an adjustable waist for the perfect look and fit.
+&bull; Dark heather gray rouched bike shorts.&bull; Fitted. Inseam: 2"". &bull; Machine wash/dry.","50 EUR",WSH03,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/wsh03-gray_main.jpg,"Shorts, New Luma Yoga Collection, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/artemis-running-short.html,"Artemis Running Short","Discover smooth jogging and chic comfort each time you slip into the Artemis Running Short. A unique maritime-inspired design and oolor theme features a stretchy drawstring waist.
+&bull; Black rouched shorts with mint waist. &bull; Soft, lightweight construction.&bull; LumaTech&trade; wicking technology.&bull; Semi-fitted.","45 EUR",WSH04,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/wsh04-black_main.jpg,Shorts,4.90
+http://localhost:8888/magento2/test/bess-yoga-short.html,"Bess Yoga Short","Designed for intense physical activity &ndash; think bikram &ndash; our Bess Yoga Short features moisture-wicking, four-way stretch fabric that lets you move in every which way. A vented gusset adds breathability and range of motion.
+&bull; Navy cotton shorts with light bue waist detail.&bull; Front shirred waistband.&bull; Flat-lock, chafe-free side seams.&bull; Vented gusset.&bull; Hidden interior pocket.&bull; Sustainable and recycled fabric.","28 EUR",WSH05,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/wsh05-blue_main.jpg,"Shorts, Women Sale, Default Category",4.90
+http://localhost:8888/magento2/test/angel-light-running-short.html,"Angel Light Running Short","The Angel Light Running Short offers comfort in an ultra-lightweight, breathable package. With fabric infused with all-natural Cocona&reg; performance technology, it can whisk away sweat and block UV rays.
+&bull; Dark heather gray running shorts.&bull; Snug fit. &bull; Elastic waistband. &bull; Cocona&reg; performance fabric. &bull; Machine wash/dry.","42 EUR",WSH06,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/wsh06-gray_main.jpg,Shorts,4.90
+http://localhost:8888/magento2/test/echo-fit-compression-short.html,"Echo Fit Compression Short","Your muscles know it's go time the second you pull on the Echo Fit Compression Short. A balance of firm, stimulating squeeze with breathability, it offers the support and comfort you need to give it your all.
+&bull; Black compression shorts.&bull; High-waisted cut.&bull; Compression fit.&bull; Inseam: 1.0"". &bull; Machine wash/dry.","24 EUR",WSH07,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/wsh07-black_main.jpg,"Shorts, New Luma Yoga Collection, Default Category",4.90
+http://localhost:8888/magento2/test/sybil-running-short.html,"Sybil Running Short","Fortunately, it's okay to look cute while you're working out. The Sybil Running Short combines a fun, color-blocked design with breathable mesh fabric for sporty-fun style.
+&bull; Blue running shorts with green waist.&bull; Drawstring-adjustable waist.&bull; 4"" inseam. Machine wash/line dry.","44 EUR",WSH08,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/wsh08-purple_main.jpg,"Shorts, Performance Fabrics, Default Category",4.90
+http://localhost:8888/magento2/test/mimi-all-purpose-short.html,"Mimi All-Purpose Short","You can run, bike or swim in the do-anything, water-resistance Mimi Short. No need to worry about rubbing-induced soreness either, with flatlock seams and soft, chafe-resistant material.
+&bull; Gray/seafoam two-layer shorts.&bull; Water-resistant construction.&bull; Inner mesh brief for breathable support.&bull; 2.0"" inseam.&bull; Reflective trim for visibility.","44 EUR",WSH09,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/wsh09-gray_main.jpg,Shorts,4.90
+http://localhost:8888/magento2/test/ana-running-short.html,"Ana Running Short","Time to lace up your kicks and beat that personal best in the Ana Running Short. It's designed with breathable mesh side panels to help keep you cool while you master the miles.
+&bull; Black/pink two-layer shorts.&bull; Low-rise elastic waistband.&bull; Relaxed fit. &bull; Ultra-lightweight fabric. &bull; Internal drawstring. &bull; Machine wash/dry.","40 EUR",WSH10,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/wsh10-black_main.jpg,"Shorts, Eco Friendly, Default Category",4.90
+http://localhost:8888/magento2/test/ina-compression-short.html,"Ina Compression Short","One of Luma's most popular items, the Ina Compression Short has you covered with exceptional support and comfort, whether you're running the trail, riding a bike or ripping out reps. The ventilating fabric offers cool relief and prevents irritating chafing.
+&bull; Royal blue bike shorts.&bull; Compression fit. &bull; Moisture-wicking. &bull; Anti-microbial. &bull; Machine wash/dry.","49 EUR",WSH11,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/wsh11-blue_main.jpg,"Shorts, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/erika-running-short.html,"Erika Running Short","A great short with a body-hugging design, the Erika Running Short is perfect for runners who prefer a fitted short rather than the traditional baggy variety.
+&bull; Seafoam pattern running shorts.&bull; Elastic waistband.&bull; Snug fit.&bull; 4'' inseam.&bull; 76% premium brushed Nylon / 24% Spandex.","45 EUR",WSH12,http://localhost:8888/magento2/test/pub/media/catalog/product/w/s/wsh12-green_main.jpg,"Shorts, Erin Recommends, Default Category",4.90
+http://localhost:8888/magento2/test/set-of-sprite-yoga-straps.html,"Set of Sprite Yoga Straps","Great set of Sprite Yoga Straps for every stretch and hold you need. There are three straps in this set: 6', 8' and 10'.
+
+ 100% soft and durable cotton.
+ Plastic cinch buckle is easy to use.
+ Choice of three natural colors made from phthalate and heavy metal free dyes.
+","14 EUR",24-WG085_Group,http://localhost:8888/magento2/test/pub/media/catalog/product/l/u/luma-yoga-strap-set.jpg,"Gear, Fitness Equipment",4.90

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="feed_generator" translate="label" sortOrder="10">
+            <label>AV FeedGenerator2</label>
+        </tab>
+        <section id="av_feedgenerator_setup" translate="label" sortOrder="130" showInDefault="1" showInWebsite="1"
+                 showInStore="1">
+            <class>separator-top</class>
+            <label>Configuration</label>
+            <tab>feed_generator</tab>
+            <resource>AV_FeedGenerator2::feed_generator2_config</resource>
+            <group id="general" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1"
+                   showInStore="1">
+                <label>General Configuration</label>
+                <comment>
+                    <![CDATA[Feed is generated once a day at 0:00 <br>]]>
+                </comment>
+                <field id="enable" translate="label" type="select" sortOrder="20" showInDefault="1" showInWebsite="1"
+                       showInStore="1">
+                    <label>Module Enable</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                </field>
+                <field id="delivery_cost" translate="label" type="text" sortOrder="30" showInDefault="1"
+                       showInWebsite="1"
+                       showInStore="1">
+                    <label>Delivery cost</label>
+                    <comment>
+                        <![CDATA[General delivery cost]]></comment>
+                </field>
+                <field id="file_name" translate="label" type="text" sortOrder="40" showInDefault="1" showInWebsite="1"
+                       showInStore="1">
+                    <label>File name</label>
+                    <comment>
+                        <![CDATA[Custom CSV file name]]></comment>
+                </field>
+                <field id="feed_field" translate="label" type="multiselect"
+                       sortOrder="50" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Feed field(s)</label>
+                    <comment><![CDATA[Please select, which field(s) is(are) included in feed <br> For multiselection use ctrl / cmd + click]]></comment>
+                    <source_model>AV\FeedGenerator2\Model\Config\Source\Field</source_model>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>
